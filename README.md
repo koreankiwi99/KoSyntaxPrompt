@@ -7,7 +7,7 @@ The study focuses on understanding performance variations and optimizing prompt 
 
 ## Contents
 - [Introduction](docs/INTRODUCTION.md): An overview of the research question and objectives.
-- [Experiment Methods](docs/METHODOLOGY.md): Detailed description of the experimental setup, including the types of prompts used, model configurations, and evaluation criteria.
+- [Experiment Methods](docs/METHODOLOGY.md): Detailed description of the experimental setup.
 - [Results](docs/RESULTS.md): Summary of findings from the experiments, including performance metrics and observed trends.
 
 ## Repository Structure
