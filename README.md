@@ -6,7 +6,7 @@ The primary objective of this thesis is to investigate how different syntactic s
 The study focuses on understanding performance variations and optimizing prompt structures to improve reasoning accuracy.
 
 ## Contents
-- Introduction: An overview of the research question and objectives.
+- Introduction[INTRODUCTION.md]: An overview of the research question and objectives.
 - Experiment Methods: Detailed description of the experimental setup, including the types of prompts used, model configurations, and evaluation criteria.
 - Results: Summary of findings from the experiments, including performance metrics and observed trends.
 
