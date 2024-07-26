@@ -12,9 +12,9 @@ The study focuses on understanding performance variations and optimizing prompt 
 
 ## Repository Structure
 
-- docs/: Documentation files and detailed explanations of the methodology and results.
-- data/: Datasets and prompt examples used in the experiments.
-- notebooks/: Jupyter notebooks for exploratory data analysis and results visualization.
+- `docs/`: Documentation files and detailed explanations of the methodology and results.
+- `data/`: Datasets and prompt examples used in the experiments.
+- `notebooks/`: Jupyter notebooks for exploratory data analysis and results visualization.
 
 ## License
 This project is licensed under the MIT License.
