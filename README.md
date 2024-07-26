@@ -9,3 +9,15 @@ The study focuses on understanding performance variations and optimizing prompt 
 - Introduction: An overview of the research question and objectives.
 - Experiment Methods: Detailed description of the experimental setup, including the types of prompts used, model configurations, and evaluation criteria.
 - Results: Summary of findings from the experiments, including performance metrics and observed trends.
+
+## Repository Structure
+
+- docs/: Documentation files and detailed explanations of the methodology and results.
+- data/: Datasets and prompt examples used in the experiments.
+- notebooks/: Jupyter notebooks for exploratory data analysis and results visualization.
+
+## License
+This project is licensed under the MIT License.
+
+##Contact
+For any questions or further information, please contact me at salgu@snu.ac.kr
