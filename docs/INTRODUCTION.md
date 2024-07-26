@@ -24,6 +24,6 @@ The natural clause structures of English and Korean also differ. [Dissel et al. 
 ## Objectives
 This study aims to investigate how variations in verb placement and clause order in prompts affect the inference performance of large language models (LLMs). Specifically, we examine four different types of prompt syntax and their impact across twelve common-sense relational contexts.
 
-To achieve this, we will use a Korean-translated version of the Atomic dataset and conduct experiments with the GPT-3.5 Turbo model. Our methodology involves inputting everyday events (Head) and their relationships (Relation) into the model using the different prompt syntaxes. We will analyze how these variations influence the model's ability to generate accurate inferences. Detailed information about the experimental design, data preparation, and analysis procedures is provided in the following section.
+To achieve this, we will use [a Korean-translated version of the Atomic dataset](https://github.com/koreankiwi99/KR_Atomic) and conduct experiments with the GPT-3.5 Turbo model. Our methodology involves inputting everyday events (Head) and their relationships (Relation) into the model using the different prompt syntaxes. We will analyze how these variations influence the model's ability to generate accurate inferences. Detailed information about the experimental design, data preparation, and analysis procedures is provided in the following section.
 
 
