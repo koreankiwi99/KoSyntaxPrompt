@@ -1,0 +1,11 @@
+# Exploring Large Language Model Prompts for Korean If-Then Reasoning Task
+This repository contains materials related to my undergraduate graduation thesis, titled "Exploring Large Language Model Prompts for Korean If-Then Reasoning Task: Focusing on Performance Variations Based on Syntactic Structure of Prompts".
+
+## Overview
+The primary objective of this thesis is to investigate how different syntactic structures of prompts affect the performance of large language models (LLMs) in Korean if-then reasoning tasks. 
+The study focuses on understanding performance variations and optimizing prompt structures to improve reasoning accuracy.
+
+## Contents
+- Introduction: An overview of the research question and objectives.
+- Experiment Methods: Detailed description of the experimental setup, including the types of prompts used, model configurations, and evaluation criteria.
+- Results: Summary of findings from the experiments, including performance metrics and observed trends.
