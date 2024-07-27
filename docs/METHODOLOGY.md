@@ -32,12 +32,6 @@ A key observation, as shown in Figure 1, is that not all Head-Relation combinati
 
 ## Experiment Setup
 ### Basic Prompt Design
-|A|B1|B2|B3|
-|--|-----|-----|---------|
-|그가 다음의 사건을 벌인 이유는 무엇인가? : {Input}|빈칸을 채워라: {Input} 왜냐하면 그가 __것을 원했기 때문이다.|다음의 문장을 이어가라 : {Input} 왜냐하면 그가 원했던 것은 ___ |빈칸을 채워라 : 그는 ____것을 원했기에, {Input}|
-
-+ **Table 3. Table 3. Examples of the Four Prompt Types.** This table provides examples of the four different prompt types used for the xIntent Relation, which involves inferring the actor's intention. In these examples, the *Input* values are taken from the Heads in the ATOMIC2020 dataset.
-
 In this study, we aimed to evaluate how different verb placements and clause orders in prompts affect the inference performance of LLMs for twelve types of if-then relations. We designed four types of prompts with varied syntactic structures:
 
 - `Prompt Type A`: This prompt is formatted as '{Question} : {Input Sentence}' and serves as the baseline for performance comparison. It presents the if-then relation in a question format.
@@ -47,6 +41,13 @@ In this study, we aimed to evaluate how different verb placements and clause ord
   - `Type B3`: This prompt changes the clause order from main clause-causal clause to causal clause-main clause, using the same "Fill in the blank" instruction as Type B1.
 
 Each prompt was created based on the relation descriptions and templates from the ATOMIC and ATOMIC2020 datasets. However, some relations could not utilize all four prompt types due to their specific characteristics. For example, xAttr, which involves inferring actor attributes, was not suitable for verb movement or causal relationships, so only `Types A` and `B1` were used. Detailed information about all 44 prompts is provided in Appendix 1.
+
+|A|B1|B2|B3|
+|--|-----|-----|---------|
+|그가 다음의 사건을 벌인 이유는 무엇인가? : {Input}|빈칸을 채워라: {Input} 왜냐하면 그가 __것을 원했기 때문이다.|다음의 문장을 이어가라 : {Input} 왜냐하면 그가 원했던 것은 ___ |빈칸을 채워라 : 그는 ____것을 원했기에, {Input}|
+
++ **Table 3. Table 3. Examples of the Four Prompt Types.** This table shows examples of the four different prompt types used for the xIntent Relation, which involves inferring the actor's intention. The *Input* values are taken from the Heads.
+
 
 ### Model Configuration
 
