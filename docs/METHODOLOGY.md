@@ -8,13 +8,12 @@ In this study, we aimed to investigate how inference performance in if-then rela
 |:---|:---:|:---|
 |PersonX votes for PersonY|xIntent|to give support|
 |PersonX runs out of steam|isBefore|PersonX hits the showers|
-
-+ Examples from the Atomic2020 Dataset
++ **Table 1. Examples from the Atomic2020 Dataset**
 
 A Korean version of Atomic2020 existed previously, but it had poor translation quality. Therefore, we created a new machine-translated dataset called KR-Atomic to improve quality. We randomly sampled 3,000 Heads from this dataset for our experiments. For more details on the dataset creation process, please refer to the [KR-Atomic Repository](https://github.com/koreankiwi99/KR-Atomic).
 
 ### Statistics
-From the 3,000 Heads extracted through random sampling, we selected 2,528 Heads for the experimental corpus after excluding those with redundant meanings, grammatical errors, or interpretative issues. Table 1 provides the detailed statistics for this experimental corpus.
+From the 3,000 Heads extracted through random sampling, we selected 2,528 Heads for the experimental corpus after excluding those with redundant meanings, grammatical errors, or interpretative issues. Table 2 provides the detailed statistics for this experimental corpus.
 
 ||Count|Words|Morphemes|
 |--|-----|-----|---------|
@@ -22,7 +21,7 @@ From the 3,000 Heads extracted through random sampling, we selected 2,528 Heads 
 |w/o Empty Tails|102,999|-|-|
 |Heads|2,528|3.71|7.40|
 |Tails|53,355|2.39|4.88|
-+ **Table 1. Statistics for the Experimental Corpus.** *Words* and *Morphemes* represent the average counts. Morphemes were counted using the Mecab Tokenizer.
++ **Table 2. Statistics for the Experimental Corpus.** *Words* and *Morphemes* represent the average counts. Morphemes were counted using the Mecab Tokenizer.
 
 The dataset contains a total of 122,526 triples, which reduces to 102,999 when excluding entries with empty Tails. On average, each Head consists of 7.40 morphemes, while each Tail is shorter, with an average of 4.88 morphemes.
 
