@@ -1,7 +1,7 @@
 # Methodology
 
 ## Overview
-This study investigates how different verb placements and clause orders in prompts impact the inference capabilities of large language models (LLMs). Using a Korean-translated version of the Atomic2020 dataset, we evaluated the GPT-3.5 Turbo model across twelve if-then relations with four distinct prompt styles, in both zero-shot and few-shot (5-shot) settings. The goal is to understand how these variations affect the accuracy of the model's inferences. Detailed experimental procedures and analysis methods are described in the following section.
+This study investigates how different verb placements and clause orders in prompts impact the inference capabilities of LLMs. Using a Korean-translated version of the Atomic2020 dataset, we evaluated the GPT-3.5 Turbo model across 12 if-then relations with 4 distinct prompt styles, in both zero-shot and few-shot (5-shot) settings. The goal is to understand how these variations affect the accuracy of the model's inferences. Detailed experimental procedures and analysis methods are described in the following section.
 
 ## Corpus
 ### Collection
