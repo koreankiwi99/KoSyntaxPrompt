@@ -20,7 +20,9 @@ From the 3,000 Heads extracted through random sampling, we selected 2,528 Heads 
 |--|-----|-----|---------|
 |Triple|122,526|-|-|
 |w/o Empty Tails|102,999|-|-|
-|Head|2528|3.71|
+|Head|2,528|3.71|7.40|
+|Tail|53,355|2.39|4.88|
++ Table 1. Statistics for the Experimental Corpus. "Words" and "Morphemes" represent the average counts. Morphemes were counted using the Mecab Tokenizer.
 
 The dataset contains a total of 122,526 triples, which reduces to 102,999 when excluding entries with empty Tails. On average, each Head consists of 7.40 morphemes, while each Tail is shorter, with an average of 4.88 morphemes.
 
