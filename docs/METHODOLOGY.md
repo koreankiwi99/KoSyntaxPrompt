@@ -1,1 +1,5 @@
+# Methodology
 
+## Corpus
+### Collection
+### Statistics
