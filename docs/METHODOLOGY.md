@@ -40,7 +40,7 @@ In this study, we aimed to evaluate how different verb placements and clause ord
   - `Type B2`: This prompt retains the English instruction "Continue the sentence" by positioning the verb in a relative clause.
   - `Type B3`: This prompt changes the clause order from main clause-causal clause to causal clause-main clause, using the same "Fill in the blank" instruction as Type B1.
 
-Each prompt was created based on the relation descriptions and templates from the ATOMIC and ATOMIC2020 datasets. However, some relations could not utilize all four prompt types due to their specific characteristics. For example, xAttr, which involves inferring actor attributes, was not suitable for verb movement or causal relationships, so only `Types A` and `B1` were used. Detailed information about all 44 prompts is provided in Appendix 1.
+Each prompt was created based on the relation descriptions and templates from the ATOMIC and ATOMIC2020 datasets. However, some relations could not utilize all four prompt types due to their specific characteristics. For example, xAttr, which involves inferring actor attributes, was not suitable for verb movement or causal relationships, so only `Types A` and `B1` were used. Detailed information about all 44 prompts is provided in [Appendix 1](/appendix1.csv).
 
 |A|B1|B2|B3|
 |--|-----|-----|---------|
