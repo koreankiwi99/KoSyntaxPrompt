@@ -31,7 +31,16 @@ A key observation, as shown in Figure 1, is that not all Head-Relation combinati
 ![Figure 01](figure01.png)
 
 ## Experiment Setup
-### Types of Prompt
+### Basic Prompt Design
+In this study, we aimed to evaluate how different verb placements and clause orders in prompts affect the inference performance of LLMs for twelve types of if-then relations. We designed four types of prompts with varied syntactic structures:
+
+- Prompt Type A: This prompt is formatted as '{Question} : {Input Sentence}' and serves as the baseline for performance comparison. It presents the if-then relation in a question format.
+- Prompt Type B: This prompt presents the task information in sentence form and is divided into three variations:
+  - Type B1: This prompt is a direct translation from English, resulting in the verb naturally appearing at the end of the sentence. We used an instruction like "Fill in the blank" to have the LLM infer the missing content.
+  - Type B2: This prompt retains the English instruction "Continue the sentence" by positioning the verb in a relative clause.
+  - Type B3: This prompt changes the clause order from main clause-causal clause to causal clause-main clause, using the same "Fill in the blank" instruction as Type B1.
+
+Each prompt was created based on the relation descriptions and templates from the ATOMIC and ATOMIC2020 datasets. However, some relations could not utilize all four prompt types due to their specific characteristics. For example, xAttr, which involves inferring actor attributes, was not suitable for verb movement or causal relationships, so only Types A and B1 were used. Detailed information about all 44 prompts is provided in Appendix 1.
 
 ### Model Configuration
 
