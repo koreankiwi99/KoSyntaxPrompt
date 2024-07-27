@@ -16,7 +16,7 @@ A Korean version of Atomic2020 existed previously, but it had poor translation q
 ### Statistics
 From the 3,000 Heads extracted through random sampling, we selected 2,528 Heads for the experimental corpus after excluding those with redundant meanings, grammatical errors, or interpretative issues. Table 1 provides the detailed statistics for this experimental corpus.
 
-|\n|Count|Words|Morphemes|
+||Count|Words|Morphemes|
 |--|-----|-----|---------|
 |Triple|122,526|-|-|
 |w/o Empty Tails|102,999|-|-|
