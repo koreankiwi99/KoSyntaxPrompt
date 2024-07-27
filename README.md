@@ -6,6 +6,8 @@ The primary objective of this thesis is to investigate how different syntactic s
 The study focuses on understanding performance variations and optimizing prompt structures to improve reasoning accuracy.
 
 ## Contents
+The original undergraduate thesis was written in Korean. For accessibility, the content has been summarized in English and organized into the following Markdown files.
+
 - [Introduction](docs/INTRODUCTION.md): An overview of the research question and objectives.
 - [Experiment Methods](docs/METHODOLOGY.md): Detailed description of the experimental setup.
 - [Results](docs/RESULTS.md): Summary of findings from the experiments, including performance metrics and observed trends.
