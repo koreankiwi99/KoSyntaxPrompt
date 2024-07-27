@@ -34,6 +34,10 @@ A key observation, as shown in Figure 1, is that not all Head-Relation combinati
 ### Basic Prompt Design
 In this study, we aimed to evaluate how different verb placements and clause orders in prompts affect the inference performance of LLMs for twelve types of if-then relations. We designed four types of prompts with varied syntactic structures:
 
+|A|B1|B2|B3|
+|--|-----|-----|---------|
+|그가 다음의 사건을 벌인 이유는 무엇인가? : {Input}|빈칸을 채워라: {Input} 왜냐하면 그가 __것을 원했기 때문이다.|다음의 문장을 이어가라: {Input} 왜냐하면 그가 원했던 것은 ___ |빈칸을 채워라: 그는 ____것을 원했기에, {Input}|
+
 - `Prompt Type A`: This prompt is formatted as '{Question} : {Input Sentence}' and serves as the baseline for performance comparison. It presents the if-then relation in a question format.
 - `Prompt Type B`: This prompt presents the task information in sentence form and is divided into three variations:
   - `Type B1`: This prompt is a direct translation from English, resulting in the verb naturally appearing at the end of the sentence. We used an instruction like "Fill in the blank" to have the LLM infer the missing content.
