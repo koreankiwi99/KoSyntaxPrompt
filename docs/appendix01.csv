@@ -1,0 +1,13 @@
+Relation,Reference Template1,Reference Template2,Prompt A,Prompt B1,Prompt B2,Prompt B3
+xEffect,What effects does the event have on X?,"As a result, PersonX will","다음의 사건이 일어난다면, 그는 어떻게 행동할 것인가?",{input} 따라서 그는 ___했다.,{input} 따라서 그가 했던 것은 ___,"그는 __했는데, 왜냐하면 {input}"
+oEffect,What effects does the event have on others?,"As a result, Y or others will","다음의 사건이 일어난다면, 주변 사람들은 어떻게 행동할 것인가?",{input} 따라서 주변 사람들은 ___했다.,{input} 따라서 주변 사람들이 했던 것은 ___,"주변 사람들은 ___ 했는데, 왜냐하면 {input}"
+xWant,What would X likely want to do after the event?,"As a result, PersonX wants","다음의 사건이 일어난다면, 그는 무엇을 원할 것인가?",{input} 따라서 그는 ___것을 원했다.,{input} 따라서 그가 원했던 것은 ___,"그는 __것을 원했는데, 왜냐하면 {input}"
+oWant,What would others likely want to do after the event?,"As a result, Y or others want","다음의 사건이 일어난다면, 주변 사람들은 무엇을 원할 것인가?'",{input} 따라서 주변 사람들은 ___것을 원했다,{input} 따라서 주변 사람들이 원했던 것은 ___,"주변 사람들은 ___ 원했는데, 왜냐하면 {input}"
+xReact,How do others' feel after the event?,"As a result, PersonX feels","다음의 사건이 일어났을 때, 그는 어떻게 느꼈는가?",{input} 따라서 그는 ___것을 느꼈다.,{input} 따라서 그가 느꼈던 것은 ___,"그는 ___느꼈는데, 왜냐하면 {input}"
+oReact,Why does X cause the event?,"As a result, Y or others feel","다음의 사건이 일어났을 때, 주변 사람들은 어떻게 느꼈는가?",{input} 따라서 주변 사람들은 ___것을 느꼈다.,{input} 따라서 주변 사람들이 느꼈던 것은 ___,"주변 사람들은 __ 느꼈는데, 왜냐하면 {input}"
+xIntent,Why does X cause the event?,because PersonX wanted,그가 다음의 사건을 벌인 이유는 무엇인가?,{input} 왜냐하면 그가 __것을 원했기 때문이다.,{input} 왜냐하면 그가 원했던 것은 ___,"그는 ____것을 원했기에, {input}"
+xNeed,What does X need to do before the event?,"but before, PersonX needed",다음의 사건이 일어나기 위해서 그는 무엇을 했어야 하는가?,{input} 이를 위해 그는 __했어야 했다.,{input} 이를 위해 그가 했어야 한 것은 ___,"그는 ___어야 했는데,이는 {input}하기 위해서였다."
+isBefore,(Template 참고) {input} Happens after ___,Happens after,다음의 사건이 일어나기 전에 어떤 일이 벌어졌는가?,{input} 이는 ___ 후에 일어났다.,{input} 그 전에 ___,
+isAfter,(Template 참고) {input} Happens before ___,Happens before,다음의 사건이 일어나고 난 후 어떤 일이 벌어졌는가?,{input} 이는 ___ 전에 일어났다.,{input} 그 후에 ___,
+HinderedBy,(Template 참고) {input} can be hindered by,can be hindered by,다음의 사건은 무엇에 의해 일어나지 않을 수 있는가?,{input} 이는 ___ 것에 의해 일어나지 않을 수 있다.,{input} 이를 일어나지 않게 하는 것은 ___,"___면, {input}은 일어나지 않을 것이다."
+xAttr,How would X be described?,PersonX is seen as,"다음 사건이 일어났을 때, 그는 어떤 사람으로 보이는가?",{input} 그는 ___ 사람으로 보인다.,-,-
