@@ -8,7 +8,8 @@ In this study, we aimed to investigate how inference performance in if-then rela
 |:---|:---:|:---|
 |PersonX votes for PersonY|xIntent|to give support|
 |PersonX runs out of steam|isBefore|PersonX hits the showers|
-:Examples from the Atomic2020 Dataset
+
+####Examples from the Atomic2020 Dataset
 
 A Korean version of Atomic2020 existed previously, but it had poor translation quality. Therefore, we created a new machine-translated dataset called KR-Atomic to improve quality. We randomly sampled 3,000 Heads from this dataset for our experiments. For more details on the dataset creation process, please refer to the [KR-Atomic Repository](https://github.com/koreankiwi99/KR-Atomic).
 
