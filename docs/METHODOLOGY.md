@@ -16,6 +16,12 @@ A Korean version of Atomic2020 existed previously, but it had poor translation q
 ### Statistics
 From the 3,000 Heads extracted through random sampling, we selected 2,528 Heads for the experimental corpus after excluding those with redundant meanings, grammatical errors, or interpretative issues. Table 1 provides the detailed statistics for this experimental corpus.
 
+|\n|Count|Words|Morphemes|
+|--|-----|-----|---------|
+|Triple|122,526|-|-|
+|w/o Empty Tails|102,999|-|-|
+|Head|2528|3.71|
+
 The dataset contains a total of 122,526 triples, which reduces to 102,999 when excluding entries with empty Tails. On average, each Head consists of 7.40 morphemes, while each Tail is shorter, with an average of 4.88 morphemes.
 
 A key observation, as shown in Graph 1, is that not all Head-Relation combinations lead to effective commonsense inference. Consequently, the distribution of Tails is biased depending on the Relation, indicating that some Relations are more likely to produce meaningful Tails than others.
