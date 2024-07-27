@@ -33,4 +33,4 @@ A key observation, as shown in Figure 1, is that not all Head-Relation combinati
 
 ### Model Configuration
 
-### Evaluation Metric
+## Evaluation Metric
