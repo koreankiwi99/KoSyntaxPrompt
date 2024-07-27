@@ -1,5 +1,8 @@
 # Methodology
 
+## Overview
+This study investigates how different verb placements and clause orders in prompts impact the inference capabilities of large language models (LLMs). Using a Korean-translated version of the Atomic2020 dataset, we evaluated the GPT-3.5 Turbo model across twelve if-then relations with four distinct prompt styles, in both zero-shot and few-shot (5-shot) settings. The goal is to understand how these variations affect the accuracy of the model's inferences. Detailed experimental procedures and analysis methods are described in the following section.
+
 ## Corpus
 ### Collection
 In this study, we aimed to investigate how inference performance in if-then relations varies due to the syntactic structure of prompts. To achieve this, we used the [Atomic2020](https://github.com/allenai/comet-atomic-2020) dataset, which is designed for commonsense reasoning about everyday events, and translated it into Korean using machine translation. The Atomic2020 dataset is organized into triples: a Base Event (*Head*), a *Relation*, and an inferred Event (*Tail*). It includes 23 Relations set by researchers, with Heads automatically extracted from a corpus and Tails created through crowdsourcing, where workers generated the Tails based on given Heads and Relations. The dataset contains approximately 1.33M triples and is used to evaluate if machines can infer Tails similarly to humans and as training data for this purpose. Although the Heads in Atomic2020 include sentences and words like 'Apple,' this study focuses on if-then relations using only sentence-form Heads.
