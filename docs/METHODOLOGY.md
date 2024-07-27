@@ -75,5 +75,6 @@ In addition to zero-shot inference, we conducted experiments using few-shot lear
 
 For few-shot learning, we used 10 demonstration samples per prompt. Initially, we selected 100 triples per relation from the ATOMIC2020 dataset, ensuring a Google BLEU score of 0.4 or lower relative to our experimental data to avoid overlap. We then refined this selection to 20 high-quality samples per relation. To minimize bias, we randomly chose 10 out of these 20 samples for each inference task.
 
-### Model Configuration
+### Experimental Model and Parameters
+In this study, we used the GPT-3.5-turbo-1106 model provided by OpenAI for inference. This model was chosen because it is trained to better follow instructions compared to the previous GPT-3 model and offers faster inference speed compared to GPT-4. Additionally, various Korean-based LLMs were tested during the pilot phase, but none performed meaningfully in zero-shot settings and were thus excluded. For inference, the parameters were set to temperature 0.4, max tokens 100, frequency penalty 0.5, and presence penalty 0.5.
 
