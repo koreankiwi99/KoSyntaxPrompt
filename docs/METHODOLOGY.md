@@ -31,9 +31,7 @@ A key observation, as shown in Figure 1, is that not all Head-Relation combinati
 ![Figure 01](figure01.png)
 
 ## Experiment Setup
-
 ### Types of Prompt
 
 ### Model Configuration
 
-## Evaluation Metric
