@@ -26,3 +26,5 @@ From the 3,000 Heads extracted through random sampling, we selected 2,528 Heads 
 A key observation, as shown in Figure 1, is that not all Head-Relation combinations lead to effective commonsense inference. Consequently, the distribution of Tails is biased depending on the Relation, indicating that some Relations are more likely to produce meaningful Tails than others.
 
 ![Figure 01](figure01.png)
+
+## Experiment Setup
