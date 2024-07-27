@@ -36,7 +36,9 @@ In this study, we aimed to evaluate how different verb placements and clause ord
 
 |A|B1|B2|B3|
 |--|-----|-----|---------|
-|그가 다음의 사건을 벌인 이유는 무엇인가? : {Input}|빈칸을 채워라: {Input} 왜냐하면 그가 __것을 원했기 때문이다.|다음의 문장을 이어가라: {Input} 왜냐하면 그가 원했던 것은 ___ |빈칸을 채워라: 그는 ____것을 원했기에, {Input}|
+|그가 다음의 사건을 벌인 이유는 무엇인가? : {Input}|빈칸을 채워라: {Input} 왜냐하면 그가 __것을 원했기 때문이다.|다음의 문장을 이어가라 : {Input} 왜냐하면 그가 원했던 것은 ___ |빈칸을 채워라 : 그는 ____것을 원했기에, {Input}|
+
++ **Table 3. Table 3. Examples of the Four Prompt Types.** This table provides examples of the four different prompt types used for the xIntent Relation, which involves inferring the actor's intention. In these examples, the *Input* values are taken from the Heads in the ATOMIC2020 dataset.
 
 - `Prompt Type A`: This prompt is formatted as '{Question} : {Input Sentence}' and serves as the baseline for performance comparison. It presents the if-then relation in a question format.
 - `Prompt Type B`: This prompt presents the task information in sentence form and is divided into three variations:
