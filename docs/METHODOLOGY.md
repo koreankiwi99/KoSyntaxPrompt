@@ -1,7 +1,7 @@
 # Methodology
 
 ## Overview
-This study investigates how different verb placements and clause orders in prompts impact the inference capabilities of LLMs. Using a Korean-translated version of the Atomic2020 dataset, we evaluated the GPT-3.5 Turbo model across 12 if-then relations with 4 distinct prompt styles, in both zero-shot and few-shot (5-shot) settings. The goal is to understand how these variations affect the accuracy of the model's inferences. Detailed experimental procedures and analysis methods are described in the following section.
+This study investigates how different verb placements and clause orders in prompts impact the inference capabilities of LLMs. Using a Korean-translated version of the Atomic2020 dataset, we evaluated the GPT-3.5 Turbo model across 12 if-then relations with 4 distinct prompt styles, in both zero-shot and few-shot (10-shot) settings. The goal is to understand how these variations affect the accuracy of the model's inferences. Detailed experimental procedures and analysis methods are described in the following section.
 
 ## Corpus
 ### Collection
@@ -48,6 +48,25 @@ Each prompt was created based on the relation descriptions and templates from th
 
 + **Table 3. Table 3. Examples of the Four Prompt Types.** This table shows examples of the four different prompt types used for the xIntent Relation, which involves inferring the actor's intention. The *Input* values are taken from the Heads.
 
+### Few-shot Prompt Design
+In addition to zero-shot inference, we conducted experiments using few-shot learning. The structure of the few-shot prompts was designed based on West et al. (2021) and is illustrated below.
+```
+그가 다음의 사건을 벌인 이유는 무엇인가? 한 문장으로 답하라. 예시:
+상황1: 그는 거실 페인트칠을 도왔다
+답변1: 도움이 되고 싶어서다.
+상황2: 그는 20파운드를 감량했다
+답변2: 더 보기 좋고 싶어서다
+상황3: 그는 모든 과목에서 A를 받았다
+답변3: 좋은 학교에 들어가고 싶어서다.
+…
+상황9: 그는 거짓말을 했다
+답변9: 잘못을 덮고 싶어서다.
+상황10: 그는 공 던지기 놀이를 했다
+답변10: 놀고 즐기고 싶어서다.
+상황: 그는 새 지갑을 원했다
+답변:
+```
+For few-shot learning, we used 10 demonstration samples per prompt. Initially, we selected 100 triples per relation from the ATOMIC2020 dataset, ensuring a Google BLEU score of 0.4 or lower relative to our experimental data to avoid overlap. We then refined this selection to 20 high-quality samples per relation. To minimize bias, we randomly chose 10 out of these 20 samples for each inference task.
 
 ### Model Configuration
 
