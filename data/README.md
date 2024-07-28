@@ -4,7 +4,7 @@ This directory contains all data files used in this project.
 note : the results of LLM-based evalutation will be updated.
 
 ## Input
-- test.csv
+test.csv
   - Source : Derived from KR-Atomic and Atomic2020, containing 122,526 triples.
   - Columns:
     - `Head_Eng`: Head events in English (from Atomic2020).
