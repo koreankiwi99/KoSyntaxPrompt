@@ -1,6 +1,34 @@
 # Data
+This directory contains all data files used in this project, organized for both zero-shot and few-shot learning settings.
 
 **Note**: The results of LLM-based evaluations will be updated.
+
+## Folder Structure
+
+```plaintext
+data/
+├── test.csv
+├── samples.csv
+├── zeroshot/
+│   ├── raw/
+│   │   ├── isAfter.csv
+│   │   ├── isBefore.csv
+│   │   └── ... (other relation files)
+│   ├── processed/
+│   │   ├── isAfter.csv
+│   │   ├── isBefore.csv
+│   │   └── ... (other relation files)
+├── fewshot_outcome/
+│   ├── raw/
+│   │   ├── isAfter.csv
+│   │   ├── isBefore.csv
+│   │   └── ... (other relation files)
+│   ├── processed/
+│   │   ├── isAfter.csv
+│   │   ├── isBefore.csv
+│   │   └── ... (other relation files)
+└── README.md
+```
 
 ## Input
 Derived from [Atomic2020](https://github.com/allenai/comet-atomic-2020) and [KR-Atomic](https://github.com/koreankiwi99/KR-Atomic).
@@ -29,4 +57,20 @@ Derived from [Atomic2020](https://github.com/allenai/comet-atomic-2020) and [KR-
 
 ## Outcome
 ### Zero-shot & Few-shot
-These folders contain generated outcomes named according to the type of relation (e.g., `isAfter.csv`, `isBefore.csv`).
+## Outcome
+
+### Zero-shot & Few-shot
+These folders contain `raw` and `processed` subfolders. Each subfolder contains generated outcomes named according to the type of relation (e.g., `isAfter.csv`, `isBefore.csv`).
+
+###raw
+Contains raw, unprocessed generated outcomes directly produced by the model without any further modifications or cleaning.
+
+###processed
+Contains generated outcomes that have been cleaned and processed to correct errors and improve quality.
+
+- **Columns**:
+  - `input`: Head events used as input.
+  - `A`: Generated output with prompt type A.
+  - `B`: Generated output with prompt type B1.
+  - `B2`: Generated output with prompt type B2 (optional).
+  - `B3`: Generated output with prompt type B3 (optional).
