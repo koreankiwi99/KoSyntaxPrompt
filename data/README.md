@@ -20,3 +20,13 @@ This directory contains all data files used in this project.
   - `Tail_Eng`: Tail events in English (from Atomic2020).
   - `Tail_raw`: Machine-translated tail events in Korean.
   - `Tail_Ko`: Final revised version of the tail events in Korean, with verbs changed to past tense (Label).
+
+## Outcome
+
+### Zero-shot
+This folder contains generated outcomes in the zero-shot setting. The CSV files are named according to the type of relation (e.g., `isAfter.csv`, `isBefore.csv`).
+- **Columns**:
+
+### Few-shot
+This folder contains generated outcomes in the few-shot setting. The CSV files are named according to the type of relation.
+
