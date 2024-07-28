@@ -3,9 +3,10 @@
 **Note**: The results of LLM-based evaluations will be updated.
 
 ## Input
+Derived from [Atomic2020](https://github.com/allenai/comet-atomic-2020) and [KR-Atomic](https://github.com/koreankiwi99/KR-Atomic),
 
 ### test.csv
-- **Source**: Derived from [Atomic2020](https://github.com/allenai/comet-atomic-2020) and [KR-Atomic](https://github.com/koreankiwi99/KR-Atomic), containing 122,526 triples.
+- **Description**: Containing 122,526 triples.
 - **Notes**:
   - `Head_Ko` is used as the input data for generation.
   - `Tail_Ko` is used as the target label for assessment.
