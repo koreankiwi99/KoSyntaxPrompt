@@ -22,7 +22,7 @@ Derived from [Atomic2020](https://github.com/allenai/comet-atomic-2020) and [KR-
 
 ### samples.csv
 - **Description**: Used for few-shot learning, containing 240 rows (12 relations with 20 samples each).
-- Notes:
+- **Notes**:
   - `Head_Ko` and `Tail_Ko` are used as a pair for few-shot learning tasks.
 - **Columns**: Same as `test.csv`, with an additional column:
   - `gleu_score`: Measures the similarity between the samples in `samples.csv` and the data in `test.csv`.
