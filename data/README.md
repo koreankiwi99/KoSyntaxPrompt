@@ -7,26 +7,28 @@ This directory contains all data files used in this project, organized for both 
 
 ```plaintext
 data/
-├── test.csv
-├── samples.csv
-├── zeroshot/
-│   ├── raw/
-│   │   ├── isAfter.csv
-│   │   ├── isBefore.csv
-│   │   └── ... (other relation files)
-│   ├── processed/
-│   │   ├── isAfter.csv
-│   │   ├── isBefore.csv
-│   │   └── ... (other relation files)
-├── fewshot_outcome/
-│   ├── raw/
-│   │   ├── isAfter.csv
-│   │   ├── isBefore.csv
-│   │   └── ... (other relation files)
-│   ├── processed/
-│   │   ├── isAfter.csv
-│   │   ├── isBefore.csv
-│   │   └── ... (other relation files)
+├── input/
+│   ├── test.csv
+│   ├── samples.csv
+├── output/
+│   ├── zeroshot/
+│   │   ├── raw/
+│   │   │   ├── isAfter.csv
+│   │   │   ├── isBefore.csv
+│   │   │   └── ... (other relation files)
+│   │   ├── processed/
+│   │   │   ├── isAfter.csv
+│   │   │   ├── isBefore.csv
+│   │   │   └── ... (other relation files)
+│   ├── fewshot/
+│   │   ├── raw/
+│   │   │   ├── isAfter.csv
+│   │   │   ├── isBefore.csv
+│   │   │   └── ... (other relation files)
+│   │   ├── processed/
+│   │   │   ├── isAfter.csv
+│   │   │   ├── isBefore.csv
+│   │   │   └── ... (other relation files)
 └── README.md
 ```
 
