@@ -23,10 +23,5 @@ This directory contains all data files used in this project.
 
 ## Outcome
 
-### Zero-shot
-This folder contains generated outcomes in the zero-shot setting. The CSV files are named according to the type of relation (e.g., `isAfter.csv`, `isBefore.csv`).
-- **Columns**:
-
-### Few-shot
-This folder contains generated outcomes in the few-shot setting. The CSV files are named according to the type of relation.
-
+### Zero-shot & Few-shot
+These folders contain generated outcomes named according to the type of relation (e.g., `isAfter.csv`, `isBefore.csv`).
