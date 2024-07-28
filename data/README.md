@@ -19,6 +19,11 @@
   - `Tail_raw`: Machine-translated tail events in Korean.
   - `Tail_Ko`: Final revised version of the tail events in Korean, with verbs changed to past tense (Label).
 
+### samples.csv
+- **Description**: Used for few-shot learning, containing 240 rows (12 relations with 20 samples each).
+- **Columns**: Same as `test.csv`, with an additional column:
+  - `gleu_score`: Measures the similarity between the samples in `samples.csv` and the data in `test.csv`.
+
 ## Outcome
 
 ### Zero-shot & Few-shot
