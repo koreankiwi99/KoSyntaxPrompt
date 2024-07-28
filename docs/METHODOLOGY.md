@@ -46,7 +46,7 @@ Each prompt was created based on the relation descriptions and templates from th
 |--|-----|-----|---------|
 |그가 다음의 사건을 벌인 이유는 무엇인가? : {Input}|빈칸을 채워라: {Input} 왜냐하면 그가 __것을 원했기 때문이다.|다음의 문장을 이어가라 : {Input} 왜냐하면 그가 원했던 것은 ___ |빈칸을 채워라 : 그는 ____것을 원했기에, {Input}|
 
-+ **Table 3. Table 3. Examples of the Four Prompt Types.** This table shows examples of the four different prompt types used for the xIntent Relation, which involves inferring the actor's intention. The *Input* values are taken from the Heads.
++ **Table 3. Examples of the Four Prompt Types.** This table shows examples of the four different prompt types used for the xIntent Relation, which involves inferring the actor's intention. The *Input* values are taken from the Heads.
 
 ### 2. Few-shot Prompt Design
 In addition to zero-shot inference, we conducted experiments using few-shot learning. The structure of the few-shot prompts was designed based on West et al. (2021) and is illustrated in Figure 2.
