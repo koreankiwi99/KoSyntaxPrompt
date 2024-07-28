@@ -3,7 +3,7 @@
 **Note**: The results of LLM-based evaluations will be updated.
 
 ## Input
-Derived from [Atomic2020](https://github.com/allenai/comet-atomic-2020) and [KR-Atomic](https://github.com/koreankiwi99/KR-Atomic),
+Derived from [Atomic2020](https://github.com/allenai/comet-atomic-2020) and [KR-Atomic](https://github.com/koreankiwi99/KR-Atomic).
 
 ### test.csv
 - **Description**: Containing 122,526 triples.
