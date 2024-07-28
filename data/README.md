@@ -1,14 +1,13 @@
 # Data Description
 This directory contains all data files used in this project. 
 
-The results of LLM-based evaluations will be updated as the project progresses.
-
-
-note : the results of LLM-based evalutation will be updated.
+--------------------------------------------------------------
+**Note**: The results of LLM-based evaluations will be updated
+--------------------------------------------------------------
 
 ## Input
 `test.csv`
-  - Source : Derived from @KR-Atomic and Atomic2020, containing 122,526 triples.
+  - Source : Derived from KR-Atomic and Atomic2020, containing 122,526 triples.
   - Columns:
     - `Head_Eng`: Head events in English (from Atomic2020).
     - `Head_raw`: Machine-translated head events in Korean. It may contain translation errors.
