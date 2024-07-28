@@ -4,7 +4,7 @@ This directory contains all data files used in this project.
 
 **Note**: The results of LLM-based evaluations will be updated.
 
-## Input & Label
+## Input
 
 ### test.csv
 - **Source**: Derived from KR-Atomic and Atomic2020, containing 122,526 triples.
