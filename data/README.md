@@ -57,9 +57,6 @@ Derived from [Atomic2020](https://github.com/allenai/comet-atomic-2020) and [KR-
 
 ## Outcome
 ### Zero-shot & Few-shot
-## Outcome
-
-### Zero-shot & Few-shot
 These folders contain `raw` and `processed` subfolders. Each subfolder contains generated outcomes named according to the type of relation (e.g., `isAfter.csv`, `isBefore.csv`).
 
 ### raw
