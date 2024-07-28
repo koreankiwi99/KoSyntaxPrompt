@@ -1,0 +1,241 @@
+,Head_Eng,Head_raw,lemma_revised,Head_Ko,Rel,Tail_Eng,Tail_raw,Tail_Ko,gleu_score
+0,PersonX wins a hundred dollars,그는 100달러를 얻습니다,그는 100달러를 얻다,그는 100달러를 얻었다,xAttr,lucky,운이 좋다,운이 좋았다,0.3
+1,PersonX dates for a year,그는 1년 동안 데이트를 합니다,그는 1년 동안 데이트를 하다,그는 1년 동안 데이트를 했다,isBefore,PersonX breaks up with y instead of proposing,그는 프로포즈하는 대신 그녀와 헤어지다,그는 프로포즈하는 대신 그녀와 헤어졌다,0.2307692307692308
+2,PersonX dates for a year,그는 1년 동안 데이트를 합니다,그는 1년 동안 데이트를 하다,그는 1년 동안 데이트를 했다,xReact,anxious about her decision,그녀의 결정에 대해 걱정하고 있다,그녀의 결정에 대해 걱정하고 있었다,0.2307692307692308
+3,PersonX has been dating for a year,그는 1년 동안 사귀어 왔습니다,그는 1년 동안 사귀어 오다,그는 1년 동안 사귀어 왔다,oReact,affectionate,애틋해하다,애틋해했다,0.1363636363636364
+4,PersonX wins first place,그는 1등을 차지합니다,그는 1등을 차지하다,그는 1등을 차지했다,isBefore,PersonX stands on the podium with the medal,그는 메달을 들고 시상대에 서다,그는 메달을 들고 시상대에 섰다,0.1666666666666667
+5,PersonX places first,그는 1등을 차지합니다,그는 1등을 차지하다,그는 1등을 차지했다,isAfter,PersonX runs in a race,그는 경주에 출전하다,그는 경주에 출전했다,0.1666666666666667
+6,PersonX gets first place,그는 1등을 차지합니다,그는 1등을 차지하다,그는 1등을 차지했다,oEffect,Person Y trains for the next event.,다음 대회를 위해 훈련하다,다음 대회를 위해 훈련했다,0.1666666666666667
+7,PersonX wins first place,그는 1등을 차지합니다,그는 1등을 차지하다,그는 1등을 차지했다,oWant,to judge the competition,승부를 판단하다,승부를 판단했다,0.1666666666666667
+8,PersonX wins first place,그는 1등을 차지합니다,그는 1등을 차지하다,그는 1등을 차지했다,oReact,proud of x,그가 자랑스러워하다,그가 자랑스러워했다,0.1666666666666667
+9,PersonX wins first prize,그는 1등을 차지합니다,그는 1등을 차지하다,그는 1등을 차지했다,xEffect,receives a big trophy,큰 트로피를 받다,큰 트로피를 받았다,0.1666666666666667
+10,PersonX places first,그는 1등을 차지합니다,그는 1등을 차지하다,그는 1등을 차지했다,xAttr,fast,빠르다,빨랐다,0.1666666666666667
+11,PersonX wins first place,그는 1등을 차지합니다,그는 1등을 차지하다,그는 1등을 차지했다,xReact,proud and happy.,자랑스럽고 행복하다,자랑스럽고 행복했다,0.1666666666666667
+12,PersonX is in first grade,그는 1학년입니다,그는 1학년이다,그는 1학년이었다,oWant,to make friends,친구들을 만들다,친구들을 만들었다,0.1666666666666667
+13,PersonX finds a twenty dollar bill,그는 20달러 지폐를 발견합니다,그는 20달러 지폐를 발견하다,그는 20달러 지폐를 발견했다,HinderedBy,PersonX is in a poor area where there's not a lot of money lying around.,그는 주변에 돈이 많지 않은 가난한 지역에 살고 있다,그는 주변에 돈이 많지 않은 가난한 지역에 살고 있었다,0.3333333333333333
+14,PersonX finds a twenty dollar bill,그는 20달러 지폐를 발견합니다,그는 20달러 지폐를 발견하다,그는 20달러 지폐를 발견했다,xNeed,Sees the twenty dollar bill,20달러 지폐를 보다,20달러 지폐를 봤다,0.3333333333333333
+15,PersonX finds a twenty dollar bill,그는 20달러 지폐를 발견합니다,그는 20달러 지폐를 발견하다,그는 20달러 지폐를 발견했다,xEffect,spends money,돈을 쓰다,돈을 썼다,0.3333333333333333
+16,PersonX loses twenty pounds,그는 20파운드를 감량합니다,그는 20파운드를 감량하다,그는 20파운드를 감량했다,HinderedBy,PersonX has a slow metabolism.,그는 신진 대사가 느리다,그는 신진 대사가 느렸다,0.1428571428571428
+17,PersonX loses twenty pounds,그는 20파운드를 감량합니다,그는 20파운드를 감량하다,그는 20파운드를 감량했다,oEffect,the family is surprised,놀라다,놀랐다,0.1428571428571428
+18,PersonX loses twenty pounds,그는 20파운드를 감량합니다,그는 20파운드를 감량하다,그는 20파운드를 감량했다,xNeed,to watch what they eat,먹는 것을 조심하다,먹는 것을 조심했다,0.1428571428571428
+19,PersonX loses twenty pounds,그는 20파운드를 감량합니다,그는 20파운드를 감량하다,그는 20파운드를 감량했다,xIntent,to look better,더 보기 좋다,더 보기 좋았다,0.1428571428571428
+20,PersonX drives two hours,그는 2시간을 운전합니다,그는 2시간을 운전하다,그는 2시간을 운전했다,oReact,glad personx reaches without safely.,그가 무사히 도착해서 다행이다,그가 무사히 도착해서 다행였다,0.2857142857142857
+21,PersonX drives two hours,그는 2시간을 운전합니다,그는 2시간을 운전하다,그는 2시간을 운전했다,xIntent,to reach his destination,목적지에 다다르다,목적지에 다달랐다,0.2857142857142857
+22,PersonX eats for two,그는 2인분 식사를 합니다,그는 2인분 식사를 하다,그는 2인분 식사를 했다,isAfter,PersonX gets pregnant,임신을 하다,임신을 했다,0.2857142857142857
+23,PersonX eats for two,그는 2인분 식사를 합니다,그는 2인분 식사를 하다,그는 2인분 식사를 했다,oReact,satisfied.,만족하다,만족했다,0.2857142857142857
+24,PersonX eats for two,그는 2인분 식사를 합니다,그는 2인분 식사를 하다,그는 2인분 식사를 했다,xAttr,ravenous,식탐이 많다,식탐이 많았다,0.2857142857142857
+25,PersonX waits a half hour,그는 30분 동안 기다립니다,그는 30분 동안 기다리다,그는 30분 동안 기다렸다,isAfter,PersonX arrives early to an appointment,그는 약속 시간에 일찍 도착하다,그는 약속 시간에 일찍 도착했다,0.1
+26,PersonX waits a half hour,그는 30분 동안 기다립니다,그는 30분 동안 기다리다,그는 30분 동안 기다렸다,oWant,to apologize for the wait.,기다리게 해서 미안하다,기다리게 해서 미안했다,0.1
+27,PersonX waits a half hour,그는 30분 동안 기다립니다,그는 30분 동안 기다리다,그는 30분 동안 기다렸다,xEffect,gets restless,안절부절못하다,안절부절못했다,0.1
+28,PersonX gimmes a five,그는 5점을 줍니다,그는 5점을 주다,그는 5점을 줬다,oWant,to say thanks,고맙다는 인사를 하다,고맙다는 인사를 했다,0.3
+29,PersonX is 6 years old,그는 6살입니다,그는 6살이다,그는 6살이었다,xReact,anxious to be 7,7살이 되기를 간절히 원하다,7살이 되기를 간절히 원했다,0.3
+30,PersonX rushes to the store,그는 가게로 달려갑니다,그는 가게로 달려가다,그는 가게로 달려갔다,isAfter,PersonX checks the store hours,그는 매장 영업 시간을 확인하다,그는 매장 영업 시간을 확인했다,0.1666666666666667
+31,PersonX sets up shop,그는 가게를 차립니다,그는 가게를 차리다,그는 가게를 차렸다,HinderedBy,PersonX doesn't have the seed money.,그는 종자돈이 없다,그는 종자돈이 없었다,0.1666666666666667
+32,PersonX sets up shop,그는 가게를 차립니다,그는 가게를 차리다,그는 가게를 차렸다,isBefore,PersonX sells out of lemonade,레모네이드가 다 떨어지다,레모네이드가 다 떨어졌다,0.1666666666666667
+33,PersonX sets up shop,그는 가게를 차립니다,그는 가게를 차리다,그는 가게를 차렸다,xWant,to make money,돈을 벌다,돈을 벌었다,0.1666666666666667
+34,PersonX sets up shop,그는 가게를 차립니다,그는 가게를 차리다,그는 가게를 차렸다,xNeed,to have money to invest,투자할 돈이 있다,투자할 돈이 있었다,0.1666666666666667
+35,PersonX sets up shop,그는 가게를 차립니다,그는 가게를 차리다,그는 가게를 차렸다,xAttr,prepared,준비가 되다,준비가 되었다,0.1666666666666667
+36,PersonX hits the gas,그는 가속페달을 밟습니다,그는 가속페달을 밟다,그는 가속페달을 밟았다,HinderedBy,The car is out of gas,차에 기름이 떨어지다,차에 기름이 떨어졌다,0.1
+37,PersonX hits the gas,그는 가속페달을 밟습니다,그는 가속페달을 밟다,그는 가속페달을 밟았다,isBefore,PersonX arrives to work early,그는 일찍 출근하다,그는 일찍 출근했다,0.1
+38,PersonX hits the gas,그는 가속페달을 밟습니다,그는 가속페달을 밟다,그는 가속페달을 밟았다,xNeed,to have a car,차를 가지고 있다,차를 가지고 있었다,0.1
+39,PersonX hits the gas,그는 가속페달을 밟습니다,그는 가속페달을 밟다,그는 가속페달을 밟았다,xEffect,fined,벌금을 물다,벌금을 물었다,0.1
+40,PersonX hits the gas,그는 가속페달을 밟습니다,그는 가속페달을 밟다,그는 가속페달을 밟았다,xReact,exhilarated,통쾌하다,통쾌했다,0.1
+41,PersonX has the most unruly curly hair,그는 가장 다루기 힘든 곱슬 머리를 가지고 있습니다,그는 가장 다루기 힘든 곱슬 머리를 가지고 있다,그는 가장 다루기 힘든 곱슬 머리를 가지고 있었다,xEffect,becomes stressed,스트레스를 받다,스트레스를 받았다,0.1578947368421053
+42,PersonX goes to the zoo with PersonX's family,그는 가족과 함께 동물원에 갑니다,그는 가족과 함께 동물원에 가다,그는 가족과 함께 동물원에 갔다,isBefore,PersonX sees tons of animals,그는 수많은 동물을 보다,그는 수많은 동물을 봤다,0.3846153846153846
+43,PersonX goes to the zoo with PersonY's family,그는 가족과 함께 동물원에 갑니다,그는 가족과 함께 동물원에 가다,그는 가족과 함께 동물원에 갔다,oEffect,nostrils curl at fecal smell,배설물 냄새에 콧구멍이 쭈글쭈글하다,배설물 냄새에 콧구멍이 쭈글쭈글했다,0.3846153846153846
+44,PersonX goes to the zoo with PersonY's family,그는 가족과 함께 동물원에 갑니다,그는 가족과 함께 동물원에 가다,그는 가족과 함께 동물원에 갔다,xWant,spend time with family,가족과 시간을 보내다,가족과 시간을 보내었다,0.3846153846153846
+45,PersonX goes to the zoo with PersonY's family,그는 가족과 함께 동물원에 갑니다,그는 가족과 함께 동물원에 가다,그는 가족과 함께 동물원에 갔다,oReact,happy,행복해하다,행복해했다,0.3846153846153846
+46,PersonX goes to the zoo with PersonX's family,그는 가족과 함께 동물원에 갑니다,그는 가족과 함께 동물원에 가다,그는 가족과 함께 동물원에 갔다,xNeed,to get tickets,표를 사다,표를 샀다,0.3846153846153846
+47,PersonX goes to the zoo with PersonY's family,그는 가족과 함께 동물원에 갑니다,그는 가족과 함께 동물원에 가다,그는 가족과 함께 동물원에 갔다,xEffect,nostrils curl at fecal smell,배설물 냄새에 콧구멍이 쭈글쭈글하다,배설물 냄새에 콧구멍이 쭈글쭈글했다,0.3846153846153846
+48,PersonX goes to the zoo with PersonY's family,그는 가족과 함께 동물원에 갑니다,그는 가족과 함께 동물원에 가다,그는 가족과 함께 동물원에 갔다,xIntent,to spend time with persony's family,가족들과 함께 시간을 보내다,가족들과 함께 시간을 보내었다,0.3846153846153846
+49,PersonX spends with PersonY's family,그는 가족과 함께 시간을 보냅니다,그는 가족과 함께 시간을 보내다,그는 가족과 함께 시간을 보냈다,oEffect,meets others,다른 사람들을 만나다,다른 사람들을 만났다,0.3333333333333333
+50,PersonX camps with PersonY's family,그는 가족과 함께 캠핑을 합니다,그는 가족과 함께 캠핑을 하다,그는 가족과 함께 캠핑을 했다,oEffect,Smiles,미소짓다,미소지었다,0.1818181818181818
+51,PersonX camps with PersonY's family,그는 가족과 함께 캠핑을 합니다,그는 가족과 함께 캠핑을 하다,그는 가족과 함께 캠핑을 했다,xEffect,Smiles,미소 짓다,미소 지었다,0.1818181818181818
+52,PersonX goes to the beach with PersonY's family,그는 가족과 함께 해변에 갑니다,그는 가족과 함께 해변에 가다,그는 가족과 함께 해변에 갔다,xIntent,to play in the sand.,모래밭에서 놀다,모래밭에서 놀았다,0.2222222222222222
+53,PersonX is at the lake with PersonX's family,그는 가족과 함께 호수에 있습니다,그는 가족과 함께 호수에 있다,그는 가족과 함께 호수에 있었다,HinderedBy,PersonX is in the hospital for pneumonia.,그는 폐렴으로 병원에 입원 중이다,그는 폐렴으로 병원에 입원 중였다,0.2222222222222222
+54,PersonX is at the lake with PersonX's family,그는 가족과 함께 호수에 있습니다,그는 가족과 함께 호수에 있다,그는 가족과 함께 호수에 있었다,isBefore,PersonX leaves the lake,그는 호수를 떠나다,그는 호수를 떠났다,0.2222222222222222
+55,PersonX is at the lake with PersonX's family,그는 가족과 함께 호수에 있습니다,그는 가족과 함께 호수에 있다,그는 가족과 함께 호수에 있었다,oReact,relaxed,느긋하다,느긋했다,0.2222222222222222
+56,PersonX is at the lake with PersonX's family,그는 가족과 함께 호수에 있습니다,그는 가족과 함께 호수에 있다,그는 가족과 함께 호수에 있었다,xNeed,to drive them to the place,그들을 그 장소로 태워다 주다,그들을 그 장소로 태워다 줬다,0.2222222222222222
+57,PersonX is at the lake with PersonX's family,그는 가족과 함께 호수에 있습니다,그는 가족과 함께 호수에 있다,그는 가족과 함께 호수에 있었다,xEffect,get's lots of fresh air,신선한 공기를 많이 쐬다,신선한 공기를 많이 쐬었다,0.2222222222222222
+58,PersonX is at the lake with PersonX's family,그는 가족과 함께 호수에 있습니다,그는 가족과 함께 호수에 있다,그는 가족과 함께 호수에 있었다,xReact,relaxed,느긋하다,느긋했다,0.2222222222222222
+59,PersonX buys gifts for PersonY's family,그는 가족을 위한 선물을 구입합니다,그는 가족을 위한 선물을 구입하다,그는 가족을 위한 선물을 구입했다,oEffect,wants to see what they got,그들이 뭘 얻었는지 보고 싶어하다,그들이 뭘 얻었는지 보고 싶어했다,0.2307692307692308
+60,PersonX buys gifts for PersonX's family,그는 가족을 위한 선물을 구입합니다,그는 가족을 위한 선물을 구입하다,그는 가족을 위한 선물을 구입했다,xWant,to maintain relationship,관계를 유지하다,관계를 유지했다,0.2307692307692308
+61,PersonX buys gifts for PersonY's family,그는 가족을 위한 선물을 구입합니다,그는 가족을 위한 선물을 구입하다,그는 가족을 위한 선물을 구입했다,xEffect,gets thank you card,감사 카드를 받다,감사 카드를 받았다,0.2307692307692308
+62,PersonX expresses PersonX's thanks,그는 감사를 표합니다,그는 감사를 표하다,그는 감사를 표했다,oEffect,makes a new friend,새 친구를 사귀다,새 친구를 사귀었다,0.2
+63,PersonX expresses PersonX's gratitude,그는 감사를 표합니다,그는 감사를 표하다,그는 감사를 표했다,oReact,happy to be acknowledged,인정받는 것을 기쁘게 생각하다,인정받는 것을 기쁘게 생각했다,0.2
+64,PersonX spends a night in jail,그는 감옥에서 하룻밤을 보냅니다,그는 감옥에서 하룻밤을 보내다,그는 감옥에서 하룻밤을 보냈다,oWant,to get him out,그를 밖으로 보내다,그를 밖으로 보내었다,0.3333333333333333
+65,PersonX spends the night in jail,그는 감옥에서 하룻밤을 보냅니다,그는 감옥에서 하룻밤을 보내다,그는 감옥에서 하룻밤을 보냈다,xAttr,misbehaved,품행이 불량하다,품행이 불량했다,0.3333333333333333
+66,PersonX spends a night in jail,그는 감옥에서 하룻밤을 보냅니다,그는 감옥에서 하룻밤을 보내다,그는 감옥에서 하룻밤을 보냈다,xReact,ashamed,부끄럽다,부끄러웠다,0.3333333333333333
+67,PersonX is sent to prison,그는 감옥으로 보내집니다,그는 감옥으로 보내지다,그는 감옥으로 보내졌다,HinderedBy,PersonX was acquitted in court.,그는 법정에서 무죄 판결을 받다,그는 법정에서 무죄 판결을 받았다,0.1666666666666667
+68,PersonX is sent to prison,그는 감옥으로 보내집니다,그는 감옥으로 보내지다,그는 감옥으로 보내졌다,isAfter,PersonX commits a serious crime,그는 심각한 범죄를 저지르다,그는 심각한 범죄를 저질렀다,0.1666666666666667
+69,PersonX is sent to prison,그는 감옥으로 보내집니다,그는 감옥으로 보내지다,그는 감옥으로 보내졌다,xWant,to break out of their cell,그의 감방에서 탈출하다,그의 감방에서 탈출했다,0.1666666666666667
+70,PersonX is sent to prison,그는 감옥으로 보내집니다,그는 감옥으로 보내지다,그는 감옥으로 보내졌다,xNeed,to go to trial,재판을 받다,재판을 받았다,0.1666666666666667
+71,PersonX hugs PersonX's dog,그는 개를 안아줍니다,그는 개를 안아주다,그는 개를 안아줬다,xNeed,to call over the dog,개를 부르다,개를 불렀다,0.2857142857142857
+72,PersonX plays a part in the development,그는 개발의 한 축을 담당하고 있습니다,그는 개발의 한 축을 담당하고 있다,그는 개발의 한 축을 담당하고 있었다,HinderedBy,PersonX is being shut out by the others.,그는 다른 사람들에 의해 차단되고 있다,그는 다른 사람들에 의해 차단되고 있었다,0.2333333333333333
+73,PersonX plays a part in the development,그는 개발의 한 축을 담당하고 있습니다,그는 개발의 한 축을 담당하고 있다,그는 개발의 한 축을 담당하고 있었다,oEffect,relies on personX,그에 의존하다,그에 의존했다,0.2333333333333333
+74,PersonX plays a part in the development,그는 개발의 한 축을 담당하고 있습니다,그는 개발의 한 축을 담당하고 있다,그는 개발의 한 축을 담당하고 있었다,xWant,to be acknowledge for his role,그의 역할을 인정받다,그의 역할을 인정받았다,0.2333333333333333
+75,PersonX plays a part in the development,그는 개발의 한 축을 담당하고 있습니다,그는 개발의 한 축을 담당하고 있다,그는 개발의 한 축을 담당하고 있었다,oWant,to discuss with him future plans,그와 앞으로의 계획을 상의하다,그와 앞으로의 계획을 상의했다,0.2333333333333333
+76,PersonX plays a part in the development,그는 개발의 한 축을 담당하고 있습니다,그는 개발의 한 축을 담당하고 있다,그는 개발의 한 축을 담당하고 있었다,xNeed,to know the project,그 계획을 알고 있다,그 계획을 알고 있었다,0.2333333333333333
+77,PersonX sees a huge spider,그는 거대한 거미를 봅니다,그는 거대한 거미를 보다,그는 거대한 거미를 봤다,xEffect,yells,고함을 지르다,고함을 질렀다,0.3333333333333333
+78,PersonX seals the deal,그는 거래를 성사시킵니다,그는 거래를 성사시키다,그는 거래를 성사시켰다,xIntent,to make money,돈을 벌다,돈을 벌었다,0.2
+79,PersonX seals the deal,그는 거래를 성사시킵니다,그는 거래를 성사시키다,그는 거래를 성사시켰다,xAttr,successful,성공적이다,성공적이었다,0.2
+80,PersonX wanders the streets,그는 거리를 방황합니다,그는 거리를 방황하다,그는 거리를 방황했다,oWant,to wonder what PersonX will do next,다음은 그가 무엇을 할 지 궁금해하다,다음은 그가 무엇을 할 지 궁금해했다,0.2
+81,PersonX wanders the streets,그는 거리를 방황합니다,그는 거리를 방황하다,그는 거리를 방황했다,xIntent,to enjoy a new city,신도시를 즐기다,신도시를 즐겼다,0.2
+82,PersonX is terrified of spiders,그는 거미를 무서워합니다,그는 거미를 무서워하다,그는 거미를 무서워했다,xReact,annoyed,짜증나다,짜증났다,0.3
+83,PersonX helps paint the living room,그는 거실 페인트칠을 돕습니다,그는 거실 페인트칠을 돕다,그는 거실 페인트칠을 도왔다,xIntent,to be helpful,도움이 되다,도움이 되었다,0.2142857142857143
+84,PersonX can barely walk,그는 거의 걷지도 못합니다,그는 거의 걷지도 못하다,그는 거의 걷지도 못했다,xNeed,to be drunk,술에 취해 있다,술에 취해 있었다,0.1428571428571428
+85,PersonX tells lies,그는 거짓말을 합니다,그는 거짓말을 하다,그는 거짓말을 했다,isBefore,PersonX gets into trouble,그는 곤경에 처하다,그는 곤경에 처했다,0.3
+86,PersonX tells lies,그는 거짓말을 합니다,그는 거짓말을 하다,그는 거짓말을 했다,oEffect,avoids them,그를 피하다,그를 피했다,0.3
+87,PersonX tells a lie,그는 거짓말을 합니다,그는 거짓말을 하다,그는 거짓말을 했다,oReact,confused,혼란스러워하다,혼란스러워했다,0.3
+88,PersonX tells lies,그는 거짓말을 합니다,그는 거짓말을 하다,그는 거짓말을 했다,xIntent,to cover for a mistake,잘못을 덮다,잘못을 덮었다,0.3
+89,PersonX eats healthy things,그는 건강한 음식을 먹습니다,그는 건강한 음식을 먹다,그는 건강한 음식을 먹었다,HinderedBy,PersonX became addicted to sugar due to his mom's diet,그는 엄마의 식단 때문에 설탕에 중독되다,그는 엄마의 식단 때문에 설탕에 중독되었다,0.3888888888888889
+90,PersonX eats healthy things,그는 건강한 음식을 먹습니다,그는 건강한 음식을 먹다,그는 건강한 음식을 먹었다,isBefore,PersonX loses weight,그는 체중이 감소하다,그는 체중이 감소했다,0.3888888888888889
+91,PersonX eats healthy food,그는 건강한 음식을 먹습니다,그는 건강한 음식을 먹다,그는 건강한 음식을 먹었다,isAfter,PersonX gains weight after the holidays,그는 휴일 후에 체중이 증가하다,그는 휴일 후에 체중이 증가했다,0.3888888888888889
+92,PersonX eats healthy things,그는 건강한 음식을 먹습니다,그는 건강한 음식을 먹다,그는 건강한 음식을 먹었다,xWant,to improve their health,그의 건강을 증진시키다,그의 건강을 증진시켰다,0.3888888888888889
+93,PersonX eats healthy things,그는 건강한 음식을 먹습니다,그는 건강한 음식을 먹다,그는 건강한 음식을 먹었다,xNeed,to look up healthy foods online,인터넷에서 건강식품을 찾아보다,인터넷에서 건강식품을 찾아봤다,0.3888888888888889
+94,PersonX eats healthy things,그는 건강한 음식을 먹습니다,그는 건강한 음식을 먹다,그는 건강한 음식을 먹었다,xEffect,loses weight,살이 빠지다,살이 빠졌다,0.3888888888888889
+95,PersonX eats something healthy,그는 건강한 음식을 먹습니다,그는 건강한 음식을 먹다,그는 건강한 음식을 먹었다,xIntent,to be healthy,건강하다,건강했다,0.3888888888888889
+96,PersonX makes some toast,그는 건배사를 합니다,그는 건배사를 하다,그는 건배사를 했다,xNeed,to get some bread,빵을 사다,빵을 샀다,0.3
+97,PersonX hits a snag,그는 걸림돌에 부딪힙니다,그는 걸림돌에 부딪히다,그는 걸림돌에 부딪혔다,xEffect,PersonX goes back to the drawing board,그는 다시 원점으로 돌아가다,그는 다시 원점으로 돌아갔다,0.3
+98,PersonX continues PersonY's search,그는 검색을 계속합니다,그는 검색을 계속하다,그는 검색을 계속했다,isAfter,PersonX agrees to help PersonY find a missing person,그는 그녀가 실종자를 찾는 것을 돕기로 동의하다,그는 그녀가 실종자를 찾는 것을 돕기로 동의했다,0.3
+99,PersonX continues PersonY's search,그는 검색을 계속합니다,그는 검색을 계속하다,그는 검색을 계속했다,oWant,to take a breath,숨을 돌리다,숨을 돌렸다,0.3
+100,PersonX continues PersonX's search,그는 검색을 계속합니다,그는 검색을 계속하다,그는 검색을 계속했다,xIntent,to satisfy their curiosity,호기심을 만족시키다,호기심을 만족시켰다,0.3
+101,PersonX continues PersonY's search,그는 검색을 계속합니다,그는 검색을 계속하다,그는 검색을 계속했다,xAttr,concerned,걱정하다,걱정했다,0.3
+102,PersonX quits playing,그는 게임을 그만둡니다,그는 게임을 그만두다,그는 게임을 그만뒀다,xWant,try something new,새로운 것을 시도하다,새로운 것을 시도했다,0.3
+103,PersonX parties hardy,그는 격렬하게 파티를 즐깁니다,그는 격렬하게 파티를 즐기다,그는 격렬하게 파티를 즐겼다,isBefore,PersonX regrets it the next day,그는 다음날 후회하다,그는 다음날 후회했다,0.2142857142857143
+104,PersonX parties hardy,그는 격렬하게 파티를 즐깁니다,그는 격렬하게 파티를 즐기다,그는 격렬하게 파티를 즐겼다,isAfter,PersonX is going to a frat party,그는 사교 클럽 파티에 가다,그는 사교 클럽 파티에 갔다,0.2142857142857143
+105,PersonX is happy with the results,그는 결과에 만족하고 있습니다,그는 결과에 만족하고 있다,그는 결과에 만족하고 있었다,HinderedBy,PersonX is a perfectionist.,그는 완벽주의자이다,그는 완벽주의자였다,0.3888888888888889
+106,PersonX is happy with the results,그는 결과에 만족하고 있습니다,그는 결과에 만족하고 있다,그는 결과에 만족하고 있었다,xWant,to shout for joy,환희의 소리를 지르다,환희의 소리를 질렀다,0.3888888888888889
+107,PersonX eventually ran,그는 결국 도망쳤습니다,그는 결국 도망치다,그는 결국 도망쳤다,oWant,to catch PersonX,그를 잡다,그를 잡았다,0.3333333333333333
+108,PersonX eventually got fed up,그는 결국 지쳤습니다,그는 결국 지치다,그는 결국 지쳤다,oReact,worried,걱정스럽다,걱정스럽었다,0.3333333333333333
+109,PersonX eventually got fed up,그는 결국 지쳤습니다,그는 결국 지치다,그는 결국 지쳤다,xEffect,retaliated,보복했다,보복했었다,0.3333333333333333
+110,PersonX never followed,그는 결코 따라가지 않았습니다,그는 결코 따라가지 않다,그는 결코 따라가지 않았다,oWant,to convince him,그를 설득하다,그를 설득했다,0.3333333333333333
+111,PersonX never followed,그는 결코 따라가지 않았습니다,그는 결코 따라가지 않다,그는 결코 따라가지 않았다,xAttr,independent,독립적이다,독립적이었다,0.3333333333333333
+112,PersonX never forgot,그는 결코 잊지 않았습니다,그는 결코 잊지 않다,그는 결코 잊지 않았다,oWant,to praise him,그를 칭찬하다,그를 칭찬했다,0.3333333333333333
+113,PersonX never got along,그는 결코 잘 지내지 못했습니다,그는 결코 잘 지내지 못하다,그는 결코 잘 지내지 못했다,xWant,to find some friends,친구를 찾다,친구를 찾았다,0.2222222222222222
+114,PersonX never got along,그는 결코 잘 지내지 못했습니다,그는 결코 잘 지내지 못하다,그는 결코 잘 지내지 못했다,oReact,sad,슬퍼하다,슬퍼했다,0.2222222222222222
+115,PersonX lets PersonY go with a warning,그는 경고와 함께 그녀를 보내주었습니다,그는 경고와 함께 그녀를 보내주다,그는 경고와 함께 그녀를 보내줬다,HinderedBy,PersonY is a repeat offender.,그녀는 상습 범죄자이다,그녀는 상습 범죄자였다,0.3
+116,PersonX lets PersonY go with a warning,그는 경고와 함께 그녀를 보내주었습니다,그는 경고와 함께 그녀를 보내주다,그는 경고와 함께 그녀를 보내줬다,xWant,to patrol a different area,다른 지역을 순찰하다,다른 지역을 순찰했다,0.3
+117,PersonX makes a career,그는 경력을 쌓습니다,그는 경력을 쌓다,그는 경력을 쌓았다,isBefore,PersonX becomes an expert in their field,해당 분야의 전문가가 되다,해당 분야의 전문가가 되었다,0.3
+118,PersonX becomes a police officer,그는 경찰관이 됩니다,그는 경찰관이 되다,그는 경찰관이 되었다,xIntent,to protect the community,공동체를 지키다,공동체를 지켰다,0.3
+119,PersonX becomes a police officer,그는 경찰관이 됩니다,그는 경찰관이 되다,그는 경찰관이 되었다,xAttr,Driven,추진력이 있다,추진력이 있었다,0.3
+120,PersonX is a police officer,그는 경찰관입니다,그는 경찰관이다,그는 경찰관이었다,HinderedBy,PersonX is a convicted felon.,그는 유죄 판결을 받은 중범죄자이다,그는 유죄 판결을 받은 중범죄자였다,0.1666666666666667
+121,PersonX is a police officer,그는 경찰관입니다,그는 경찰관이다,그는 경찰관이었다,oWant,to get help from PersonX,그의 도움을 받다,그의 도움을 받았다,0.1666666666666667
+122,PersonX is a police officer,그는 경찰관입니다,그는 경찰관이다,그는 경찰관이었다,xNeed,attend training program,훈련에 참가하다,훈련에 참가했다,0.1666666666666667
+123,PersonX catches by the police,그는 경찰에 붙잡힙니다,그는 경찰에 붙잡히다,그는 경찰에 붙잡혔다,isAfter,PersonX steals a bike,그는 자전거를 훔치다,그는 자전거를 훔쳤다,0.1666666666666667
+124,PersonX catches by the police,그는 경찰에 붙잡힙니다,그는 경찰에 붙잡히다,그는 경찰에 붙잡혔다,xWant,to call their lawyer,그의 변호사를 불러들이다,그의 변호사를 불러들였다,0.1666666666666667
+125,PersonX catches by the police,그는 경찰에 붙잡힙니다,그는 경찰에 붙잡히다,그는 경찰에 붙잡혔다,xEffect,PersonX's crime spree ends,그의 범죄 행각은 끝납니다. .,그의 범죄 행각은 끝났다,0.1666666666666667
+126,PersonX cooks some eggs,그는 계란을 요리합니다,그는 계란을 요리하다,그는 계란을 요리했다,HinderedBy,PersonX forgot to buy eggs.,그는 계란을 사는 것을 잊다,그는 계란을 사는 것을 잊었다,0.2727272727272727
+127,PersonX cooks some eggs,그는 계란을 요리합니다,그는 계란을 요리하다,그는 계란을 요리했다,xNeed,heat a pan,팬을 데우다,팬을 데웠다,0.2727272727272727
+128,PersonX cooks some eggs,그는 계란을 요리합니다,그는 계란을 요리하다,그는 계란을 요리했다,xAttr,Hungry,배고프다,배고팠다,0.2727272727272727
+129,PersonX cooks some eggs,그는 계란을 요리합니다,그는 계란을 요리하다,그는 계란을 요리했다,xReact,satisfied,만족하다,만족했다,0.2727272727272727
+130,PersonX keeps staring at PersonY,그는 계속 그녀를 쳐다보고 있습니다,그는 계속 그녀를 쳐다보고 있다,그는 계속 그녀를 쳐다보고 있었다,isAfter,PersonX notices PersonY's beauty,그는 그녀의 아름다움에 주목하다,그는 그녀의 아름다움에 주목했다,0.3333333333333333
+131,PersonX keeps staring at PersonY,그는 계속 그녀를 쳐다보고 있습니다,그는 계속 그녀를 쳐다보고 있다,그는 계속 그녀를 쳐다보고 있었다,oEffect,they are nervous,긴장하다,긴장했다,0.3333333333333333
+132,PersonX keeps staring at PersonY,그는 계속 그녀를 쳐다보고 있습니다,그는 계속 그녀를 쳐다보고 있다,그는 계속 그녀를 쳐다보고 있었다,xReact,interested,관심 있다,관심 있었다,0.3333333333333333
+133,PersonX keeps asking PersonY,그는 계속 그녀에게 묻습니다,그는 계속 그녀에게 묻다,그는 계속 그녀에게 물었다,oWant,to tell him what he wants,그에게 원하는 것을 말해주다,그에게 원하는 것을 말해줬다,0.3
+134,PersonX keeps talking to PersonY,그는 계속 그녀와 이야기합니다,그는 계속 그녀와 이야기하다,그는 계속 그녀와 이야기했다,oEffect,get informed,소식을 접하다,소식을 접했다,0.2222222222222222
+135,PersonX keeps talking to PersonY,그는 계속 그녀와 이야기합니다,그는 계속 그녀와 이야기하다,그는 계속 그녀와 이야기했다,xWant,test how person Y reacts,그녀의 반응을 테스트하다,그녀의 반응을 테스트했다,0.2222222222222222
+136,PersonX continues on PersonY's way,그는 계속 길을 떠납니다,그는 계속 길을 떠나다,그는 계속 길을 떠났다,xWant,to achieve,성취하다,성취했다,0.3
+137,PersonX continues running,그는 계속 달립니다,그는 계속 달리다,그는 계속 달렸다,HinderedBy,Person X sprained their ankle,발목을 삐다,발목을 뼜다,0.3333333333333333
+138,PersonX continues running,그는 계속 달립니다,그는 계속 달리다,그는 계속 달렸다,xWant,to take a rest,쉬다,쉬었다,0.3333333333333333
+139,PersonX stays afloat,그는 계속 물 위에 떠 있습니다,그는 계속 물 위에 떠 있다,그는 계속 물 위에 떠 있었다,xAttr,adrift,표류하다,표류했다,0.1818181818181818
+140,PersonX has to cancel PersonX's plans,그는 계획을 취소해야 합니다,그는 계획을 취소해야 하다,그는 계획을 취소해야 했다,isBefore,PersonX has to call PersonX's job,그는 자신의 직장에 전화해야 하다,그는 자신의 직장에 전화해야 했다,0.3333333333333333
+141,PersonX has to cancel PersonX's plans,그는 계획을 취소해야 합니다,그는 계획을 취소해야 하다,그는 계획을 취소해야 했다,isAfter,PersonX misses the flight,그는 비행기를 놓치다,그는 비행기를 놓쳤다,0.3333333333333333
+142,PersonX has to cancel PersonX's plans,그는 계획을 취소해야 합니다,그는 계획을 취소해야 하다,그는 계획을 취소해야 했다,oReact,disappointed,실망하다,실망했다,0.3333333333333333
+143,PersonX has to cancel PersonX's plans,그는 계획을 취소해야 합니다,그는 계획을 취소해야 하다,그는 계획을 취소해야 했다,xEffect,thinks of better plans for the future,미래에 대한 더 나은 계획을 생각하다,미래에 대한 더 나은 계획을 생각했다,0.3333333333333333
+144,PersonX has to cancel PersonX's plans,그는 계획을 취소해야 합니다,그는 계획을 취소해야 하다,그는 계획을 취소해야 했다,xIntent,to stay at home,집에 틀어박혀 있다,집에 틀어박혀 있었다,0.3333333333333333
+145,PersonX has to cancel PersonX's plans,그는 계획을 취소해야 합니다,그는 계획을 취소해야 하다,그는 계획을 취소해야 했다,xReact,disappointed,실망하다,실망했다,0.3333333333333333
+146,PersonX keeps PersonX's head down,그는 고개를 숙이고 있습니다,그는 고개를 숙이고 있다,그는 고개를 숙이고 있었다,isAfter,PersonX sees that someone is throwing a baseball nearby,그는 누군가 근처에서 야구공을 던지는 것을 보다,그는 누군가 근처에서 야구공을 던지는 것을 봤다,0.2857142857142857
+147,PersonX keeps PersonX's head down,그는 고개를 숙이고 있습니다,그는 고개를 숙이고 있다,그는 고개를 숙이고 있었다,xAttr,timid,소심하다,소심했다,0.2857142857142857
+148,PersonX returns to PersonY's homeland,그는 고국으로 돌아갑니다,그는 고국으로 돌아가다,그는 고국으로 돌아갔다,oEffect,wants they to see their country,그들이 그들의 나라를 보기를 원하다,그들이 그들의 나라를 보기를 원했다,0.3
+149,PersonX returns to PersonX's homeland,그는 고국으로 돌아갑니다,그는 고국으로 돌아가다,그는 고국으로 돌아갔다,xIntent,to see his relatives,그의 친척을 만나다,그의 친척을 만났다,0.3
+150,PersonX is highschool sweethearts,그는 고등학교 시절의 연인입니다,그는 고등학교 시절의 연인이다,그는 고등학교 시절의 연인이었다,isBefore,PersonX marries her,그는 그녀와 결혼하다,그는 그녀와 결혼했다,0.1666666666666667
+151,PersonX is highschool sweethearts,그는 고등학교 시절의 연인입니다,그는 고등학교 시절의 연인이다,그는 고등학교 시절의 연인이었다,oWant,to continue the relationship,교제를 계속하다,교제를 계속했다,0.1666666666666667
+152,PersonX is highschool sweethearts,그는 고등학교 시절의 연인입니다,그는 고등학교 시절의 연인이다,그는 고등학교 시절의 연인이었다,xAttr,attractive,매력있다,매력있었다,0.1666666666666667
+153,PersonX is a student in high school,그는 고등학교에 재학 중인 학생입니다,그는 고등학교에 재학 중인 학생이다,그는 고등학교에 재학 중인 학생이었다,HinderedBy,PersonX has to earn a living,그는 생계를 유지해야 하다,그는 생계를 유지해야 했다,0.3333333333333333
+154,PersonX is a student in high school,그는 고등학교에 재학 중인 학생입니다,그는 고등학교에 재학 중인 학생이다,그는 고등학교에 재학 중인 학생이었다,xEffect,PersonX attends class,그는 수업에 참석하다,그는 수업에 참석했다,0.3333333333333333
+155,PersonX shows PersonX's gratitude,그는 고마움을 표시합니다,그는 고마움을 표시하다,그는 고마움을 표시했다,oEffect,gets thanked again,다시 한 번 감사를 받다,다시 한 번 감사를 받았다,0.2
+156,PersonX shows PersonX's appreciation,그는 고마움을 표시합니다,그는 고마움을 표시하다,그는 고마움을 표시했다,xWant,to get some more,좀 더 얻어먹다,좀 더 얻어먹었다,0.2
+157,PersonX shows PersonX's appreciation,그는 고마움을 표시합니다,그는 고마움을 표시하다,그는 고마움을 표시했다,oReact,grateful,감사해하다,감사해했다,0.2
+158,PersonX is driving down the highway,그는 고속도로를 운전하고 있습니다,그는 고속도로를 운전하고 있다,그는 고속도로를 운전하고 있었다,xIntent,to go to the hospital,병원에 가다,병원에 갔다,0.3181818181818182
+159,PersonX speeds on the highway,그는 고속도로에서 과속을 합니다,그는 고속도로에서 과속을 하다,그는 고속도로에서 과속을 했다,isAfter,PersonX gets into their new car,그는 새 차에 타다,그는 새 차에 탔다,0.1818181818181818
+160,PersonX speeds on the highway,그는 고속도로에서 과속을 합니다,그는 고속도로에서 과속을 하다,그는 고속도로에서 과속을 했다,oWant,pull them over,그를 차로 세우다,그를 차로 세웠다,0.1818181818181818
+161,PersonX speeds on the highway,그는 고속도로에서 과속을 합니다,그는 고속도로에서 과속을 하다,그는 고속도로에서 과속을 했다,xAttr,careless,경솔하다,경솔했다,0.1818181818181818
+162,PersonX sees which way the cat jumps,그는 고양이가 어느 방향으로 점프하는지 봅니다,그는 고양이가 어느 방향으로 점프하는지 보다,그는 고양이가 어느 방향으로 점프하는지 봤다,xReact,amused,재미있다,재미있었다,0.1
+163,PersonX decides to keep the cat,그는 고양이를 키우기로 결심합니다,그는 고양이를 키우기로 결심하다,그는 고양이를 키우기로 결심했다,HinderedBy,Person X is allergic.,그는 알레르기가 있다,그는 알레르기가 있었다,0.3181818181818182
+164,PersonX decides to get a cat,그는 고양이를 키우기로 결심합니다,그는 고양이를 키우기로 결심하다,그는 고양이를 키우기로 결심했다,isBefore,PersonX takes the cat home,그는 고양이를 집으로 데려가다,그는 고양이를 집으로 데려갔다,0.3181818181818182
+165,PersonX howls in pain,그는 고통에 울부짖습니다,그는 고통에 울부짖다,그는 고통에 울부짖었다,xEffect,gets sore throat from yelling,소리를 질러서 목이 따갑다,소리를 질러서 목이 따갑았다,0.1666666666666667
+166,PersonX has a big game coming up,그는 곧 큰 경기를 앞두고 있습니다,그는 곧 큰 경기를 앞두고 있다,그는 곧 큰 경기를 앞두고 있었다,xReact,nervous,긴장되다,긴장되었다,0.3846153846153846
+167,PersonX plays fetch,그는 공 던지기 놀이를 합니다,그는 공 던지기 놀이를 하다,그는 공 던지기 놀이를 했다,HinderedBy,PersonX has nothing to throw.,그는 던질 것이 없다,그는 던질 것이 없었다,0.3888888888888889
+168,PersonX plays fetch,그는 공 던지기 놀이를 합니다,그는 공 던지기 놀이를 하다,그는 공 던지기 놀이를 했다,xNeed,Find someone to play with.,같이 놀 사람을 찾다,같이 놀 사람을 찾았다,0.3888888888888889
+169,PersonX plays fetch,그는 공 던지기 놀이를 합니다,그는 공 던지기 놀이를 하다,그는 공 던지기 놀이를 했다,xIntent,to play and enjoy,놀고 즐기다,놀고 즐겼다,0.3888888888888889
+170,PersonX puts air,그는 공기를 넣습니다,그는 공기를 넣다,그는 공기를 넣었다,xReact,ready for camping,야영 준비를 마치다,야영 준비를 마쳤다,0.3
+171,PersonX studies as much,그는 공부도 많이 합니다,그는 공부도 많이 하다,그는 공부도 많이 했다,isBefore,PersonX finishes with an overall grade of a,그는 전체 학점 A를 받다,그는 전체 학점 A를 받았다,0.3
+172,PersonX studies as much,그는 공부도 많이 합니다,그는 공부도 많이 하다,그는 공부도 많이 했다,isAfter,PersonX has three a's and wants to keep the grades,그는 A가 3개이고 성적을 유지하기를 원하다,그는 A가 3개이고 성적을 유지하기를 원했다,0.3
+173,PersonX studies as much,그는 공부도 많이 합니다,그는 공부도 많이 하다,그는 공부도 많이 했다,xIntent,to graduate.,졸업하다,졸업했다,0.3
+174,PersonX tries to study,그는 공부하려고 노력합니다,그는 공부하려고 노력하다,그는 공부하려고 노력했다,xReact,prepared,준비가 되다,준비가 되었다,0.2857142857142857
+175,PersonX meets the lord in the air,그는 공중에서 주님을 만납니다,그는 공중에서 주님을 만나다,그는 공중에서 주님을 만났다,oEffect,Laughs at the story,그 이야기를 비웃다,그 이야기를 비웃었다,0.2727272727272727
+176,PersonX gets free food,그는 공짜 음식을 얻습니다,그는 공짜 음식을 얻다,그는 공짜 음식을 얻었다,xAttr,Needy,궁핍하다,궁핍했다,0.2142857142857143
+177,PersonX has a lot in common,그는 공통점이 많습니다,그는 공통점이 많다,그는 공통점이 많았다,oReact,welcomed,환영하다,환영했다,0.3
+178,PersonX has a lot in common,그는 공통점이 많습니다,그는 공통점이 많다,그는 공통점이 많았다,xReact,connected,연결되다,연결되었다,0.3
+179,PersonX loves horror movies,그는 공포 영화를 좋아합니다,그는 공포 영화를 좋아하다,그는 공포 영화를 좋아했다,HinderedBy,PersonX is too easily frightened.,그는 너무 쉽게 겁을 먹다,그는 너무 쉽게 겁을 먹었다,0.3
+180,PersonX loves horror movies,그는 공포 영화를 좋아합니다,그는 공포 영화를 좋아하다,그는 공포 영화를 좋아했다,xWant,go to the theatre,극장에 가다,극장에 갔다,0.3
+181,PersonX loves horror movies,그는 공포 영화를 좋아합니다,그는 공포 영화를 좋아하다,그는 공포 영화를 좋아했다,oWant,suggest a movie,영화를 추천하다,영화를 추천했다,0.3
+182,PersonX watches horror movies,그는 공포 영화를 좋아합니다,그는 공포 영화를 좋아하다,그는 공포 영화를 좋아했다,xNeed,Decide on a movie to watch,볼 영화를 정하다,볼 영화를 정했다,0.3
+183,PersonX loves horror movies,그는 공포 영화를 좋아합니다,그는 공포 영화를 좋아하다,그는 공포 영화를 좋아했다,xEffect,seeks horror movies out,공포영화를 찾아나선다.,공포영화를 찾아나섰다,0.3
+184,PersonX watches horror movies,그는 공포 영화를 좋아합니다,그는 공포 영화를 좋아하다,그는 공포 영화를 좋아했다,xAttr,eccentric,괴팍하다,괴팍했다,0.3
+185,PersonX drives to the airport,그는 공항으로 운전합니다,그는 공항으로 운전하다,그는 공항으로 운전했다,HinderedBy,personX has no gas in their car,차에 기름이 없다,차에 기름이 없었다,0.2
+186,PersonX drives to the airport,그는 공항으로 운전합니다,그는 공항으로 운전하다,그는 공항으로 운전했다,isBefore,PersonX boards the flight,그는 비행기에 탑승하다,그는 비행기에 탑승했다,0.2
+187,PersonX decides to hire a tutor,그는 과외 선생님을 고용하기로 결정합니다,그는 과외 선생님을 고용하기로 결정하다,그는 과외 선생님을 고용하기로 결정했다,isAfter,PersonX is failing math,그는 수학에 낙제하고 있다,그는 수학에 낙제하고 있었다,0.2941176470588235
+188,PersonX decides to hire a tutor,그는 과외 선생님을 고용하기로 결정합니다,그는 과외 선생님을 고용하기로 결정하다,그는 과외 선생님을 고용하기로 결정했다,oEffect,Gives person X a lecture,그에게 강의를 해주다,그에게 강의를 해줬다,0.2941176470588235
+189,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,HinderedBy,PersonX's partner's parent just passed away.,파트너의 부모님이 방금 돌아가시다,파트너의 부모님이 방금 돌아가셨다,0.2
+190,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,isBefore,PersonX regrets it the next day,그는 다음날 후회하다,그는 다음날 후회했다,0.2
+191,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,isAfter,PersonX is mad at his girlfriend,그는 여자 친구에게 화가 나다,그는 여자 친구에게 화가 났다,0.2
+192,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,oEffect,frowns,눈살을 찌푸리다,눈살을 찌푸렸다,0.2
+193,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,xWant,to start new relationship,새로운 관계를 시작하다,새로운 관계를 시작했다,0.2
+194,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,oReact,surprised,놀라다,놀랐다,0.2
+195,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,xNeed,get into a relationship,교제를 시작하다,교제를 시작했다,0.2
+196,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,xEffect,spends time alone,혼자 시간을 보내다,혼자 시간을 보냈다,0.2
+197,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,xIntent,to be freed,해방되다,해방되었다,0.2
+198,PersonX ends the relationship,그는 관계를 종료합니다,그는 관계를 종료하다,그는 관계를 종료했다,xAttr,upset,속상하다,속상했다,0.2
+199,PersonX looks like a tourist,그는 관광객처럼 보입니다,그는 관광객처럼 보이다,그는 관광객처럼 보였다,xNeed,to dress like a tourist,관광객처럼 옷을 입다,관광객처럼 옷을 입었다,0.3
+200,PersonX rides the ferris wheel,그는 관람차를 탑니다,그는 관람차를 타다,그는 관람차를 탔다,xReact,thrilled,아주 흥분하다,아주 흥분했다,0.3
+201,PersonX never paid attention,그는 관심을 기울이지 않았습니다,그는 관심을 기울이지 않다,그는 관심을 기울이지 않았다,oReact,unimportant,대수롭지 않다,대수롭지 않았다,0.3888888888888889
+202,PersonX never paid attention,그는 관심을 기울이지 않았습니다,그는 관심을 기울이지 않다,그는 관심을 기울이지 않았다,xEffect,does not gain knowledge,지식을 얻지 못하다,지식을 얻지 못했다,0.3888888888888889
+203,PersonX studies carefully the textbook,그는 교과서를 꼼꼼히 공부합니다,그는 교과서를 꼼꼼히 공부하다,그는 교과서를 꼼꼼히 공부했다,isBefore,PersonX passes exam with flying colors,그는 시험에 합격하다,그는 시험에 합격했다,0.2222222222222222
+204,PersonX studies carefully the textbook,그는 교과서를 꼼꼼히 공부합니다,그는 교과서를 꼼꼼히 공부하다,그는 교과서를 꼼꼼히 공부했다,isAfter,PersonX has an exam in the morning,그는 아침에 시험이 있다,그는 아침에 시험이 있었다,0.2222222222222222
+205,PersonX decides to become a teacher,그는 교사가 되기로 결심합니다,그는 교사가 되기로 결심하다,그는 교사가 되기로 결심했다,isBefore,PersonX graduates college and starts teaching,그는 대학을 졸업하고 교편을 잡기 시작하다,그는 대학을 졸업하고 교편을 잡기 시작했다,0.2727272727272727
+206,PersonX decides to become a teacher,그는 교사가 되기로 결심합니다,그는 교사가 되기로 결심하다,그는 교사가 되기로 결심했다,isAfter,PersonX is deciding on a major in college,그는 대학에서 전공을 결정하고 있다,그는 대학에서 전공을 결정하고 있었다,0.2727272727272727
+207,PersonX is sent to the principal 's office,그는 교장실로 보내집니다,그는 교장실로 보내지다,그는 교장실로 보내졌다,oReact,concerned about personx's actions,그의 행동을 염려하다,그의 행동을 염려했다,0.1
+208,PersonX is sent to the principal 's office,그는 교장실로 보내집니다,그는 교장실로 보내지다,그는 교장실로 보내졌다,xReact,worried of whats going to happen,무슨 일이 생길까봐 걱정하다,무슨 일이 생길까봐 걱정했다,0.1
+209,PersonX sticks in traffic,그는 교통 체증에 시달립니다,그는 교통 체증에 시달리다,그는 교통 체증에 시달렸다,xAttr,annoyed,짜증나다,짜증났다,0.1
+210,PersonX shines PersonX's shoes,그는 구두를 닦습니다,그는 구두를 닦다,그는 구두를 닦았다,xReact,enthusiastic,열정적이다,열정적이었다,0.1666666666666667
+211,PersonX represents PersonX's country,그는 국가를 대표합니다,그는 국가를 대표하다,그는 국가를 대표했다,isAfter,PersonX trains for the olympics,그는 올림픽을 위해 훈련하다,그는 올림픽을 위해 훈련했다,0.2
+212,PersonX represents PersonX's country,그는 국가를 대표합니다,그는 국가를 대표하다,그는 국가를 대표했다,oReact,valued,귀하게 여기다,귀하게 여겼다,0.2
+213,PersonX represents PersonX's country,그는 국가를 대표합니다,그는 국가를 대표하다,그는 국가를 대표했다,xReact,proud,자랑스럽다,자랑스럽었다,0.2
+214,PersonX boils the noodles,그는 국수를 삶습니다,그는 국수를 삶다,그는 국수를 삶았다,isAfter,PersonX brings water to a boil,그는 물을 끓이다,그는 물을 끓였다,0.1666666666666667
+215,PersonX boils the noodles,그는 국수를 삶습니다,그는 국수를 삶다,그는 국수를 삶았다,xIntent,to have a meal,식사를 하다,식사를 했다,0.1666666666666667
+216,PersonX serves in the army,그는 군 복무 중입니다,그는 군 복무 중이다,그는 군 복무 중였다,oReact,proud,자랑스러워하다,자랑스러워했다,0.3
+217,PersonX rolls away,그는 굴러 떨어집니다,그는 굴러 떨어지다,그는 굴러 떨어졌다,isBefore,PersonX gets up and brushes PersonX off,그는 일어나서 몸을 털어내다,그는 일어나서 몸을 털어내었다,0.1666666666666667
+218,PersonX turns a deaf ear,그는 귀를 막습니다,그는 귀를 막다,그는 귀를 막았다,oWant,to get angry at PersonX,그에게 화를 내다,그에게 화를 내었다,0.3
+219,PersonX turns a deaf ear,그는 귀를 막습니다,그는 귀를 막다,그는 귀를 막았다,oReact,annoyed,짜증나다,짜증났다,0.3
+220,PersonX turns a deaf ear,그는 귀를 막습니다,그는 귀를 막다,그는 귀를 막았다,xIntent,to ignore others,남을 무시하다,남을 무시했다,0.3
+221,PersonX not is able to get a word in edgeways,그는 말할 기회를 좀처럼 얻지 못합니다,그는 말할 기회를 좀처럼 얻지 못하다,그는 말할 기회를 좀처럼 얻지 못했다,oEffect,is avoided,피하다,피했다,0.1666666666666667
+222,PersonX not is able to get a word in edgeways,그는 말할 기회를 좀처럼 얻지 못합니다,그는 말할 기회를 좀처럼 얻지 못하다,그는 말할 기회를 좀처럼 얻지 못했다,oWant,have attention.,주의를 기울이다,주의를 기울였다,0.1666666666666667
+223,PersonX not is able to get a word in edgeways,그는 말할 기회를 좀처럼 얻지 못합니다,그는 말할 기회를 좀처럼 얻지 못하다,그는 말할 기회를 좀처럼 얻지 못했다,xAttr,silent,조용하다,조용했다,0.1666666666666667
+224,PersonX gets straight a 's,그는 모든 과목에서 A를 받았습니다,그는 모든 과목에서 A를 받다,그는 모든 과목에서 A를 받았다,xIntent,to get into a good school,좋은 학교에 들어가다,좋은 학교에 들어갔다,0.2727272727272727
+225,PersonX drapes herself across chest,그는 몸을 감싸고 있습니다,그는 몸을 감싸고 있다,그는 몸을 감싸고 있었다,xWant,to be warm,따뜻하다,따뜻했다,0.2857142857142857
+226,PersonX airs PersonX's dirty laundry in public,그는 사람들에게 못 볼 꼴을 보입니다,그는 사람들에게 못 볼 꼴을 보이다,그는 사람들에게 못 볼 꼴을 보였다,oEffect,are disrupted by Person X's ranting,그의 고함소리에 방해를 받다,그의 고함소리에 방해를 받았다,0.1333333333333333
+227,PersonX lives on the edge,그는 위험하게 삽니다,그는 위험하게 살다,그는 위험하게 살았다,isBefore,PersonX dies of an overdose,약물 과다 복용으로 사망하다,약물 과다 복용으로 사망했다,0.2142857142857143
+228,PersonX receives a job offer,그는 일자리 제안을 받습니다,그는 일자리 제안을 받다,그는 일자리 제안을 받았다,oWant,to convince PersonX to take the job,그 일을 맡도록 그를 설득하다,그 일을 맡도록 그를 설득했다,0.2142857142857143
+229,PersonX receives a job offer,그는 일자리 제안을 받습니다,그는 일자리 제안을 받다,그는 일자리 제안을 받았다,xReact,happy,행복해하다,행복해했다,0.2142857142857143
+230,PersonX goes for the jugular,그는 잔인하게 끝을 봅니다,그는 잔인하게 끝을 보다,그는 잔인하게 끝을 봤다,oWant,to fight back.,반격하다,반격했다,0.2222222222222222
+231,PersonX goes for the jugular,그는 잔인하게 끝을 봅니다,그는 잔인하게 끝을 보다,그는 잔인하게 끝을 봤다,oReact,afraid,두려워하다,두려워했다,0.2222222222222222
+232,PersonX goes for the jugular,그는 잔인하게 끝을 봅니다,그는 잔인하게 끝을 보다,그는 잔인하게 끝을 봤다,xNeed,to pick a fight,싸움을 걸다,싸움을 걸었다,0.2222222222222222
+233,PersonX determines PersonY's customer base,그는 타겟 고객 층을 결정합니다,그는 타겟 고객 층을 결정하다,그는 타겟 고객 층을 결정했다,oEffect,PersonY receives insight about customer base,고객 기반에 대한 인사이트를 얻다,고객 기반에 대한 인사이트를 얻었다,0.3333333333333333
+234,PersonX determines PersonY's customer base,그는 타겟 고객 층을 결정합니다,그는 타겟 고객 층을 결정하다,그는 타겟 고객 층을 결정했다,xWant,to market to the customers,고객을 대상으로 판매하다,고객을 대상으로 판매했다,0.3333333333333333
+235,PersonX goes along with the gag,그는 함께 농담을 계속합니다,그는 함께 농담을 계속하다,그는 함께 농담을 계속했다,HinderedBy,PersonX's friends are speaking in a language PersonX doesn't know.,그의 친구들은 그가 모르는 언어로 말하고 있다,그의 친구들은 그가 모르는 언어로 말하고 있었다,0.2142857142857143
+236,PersonX goes along with the gag,그는 함께 농담을 계속합니다,그는 함께 농담을 계속하다,그는 함께 농담을 계속했다,xWant,to have a good laugh,호탕하게 웃다,호탕하게 웃었다,0.2142857142857143
+237,PersonX goes along with the gag,그는 함께 농담을 계속합니다,그는 함께 농담을 계속하다,그는 함께 농담을 계속했다,xNeed,to have friends,친구가 있다,친구가 있었다,0.2142857142857143
+238,PersonX goes along with the gag,그는 함께 농담을 계속합니다,그는 함께 농담을 계속하다,그는 함께 농담을 계속했다,xAttr,Playful,장난기가 많다,장난기가 많았다,0.2142857142857143
+239,PersonX treads lightly,그는 행동을 조심히 합니다,그는 행동을 조심히 하다,그는 행동을 조심히 했다,oEffect,avoid a confrontation,대립을 피하다,대립을 피했다,0.2
