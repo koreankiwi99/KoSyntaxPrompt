@@ -6,3 +6,5 @@ To effectively analyze the results, it is crucial to determine whether they logi
 - **No Result Generated**: Instances where the system fails to produce any answer.
 - **Non-Korean Response**: Instances where the response is generated in a language other than Korean or Hangul.
 - **Refusal to Generate Response**: Instances where the system refuses to generate an answer, often with messages like "I'm sorry, but there is no specific information available."
+
+**Figure 3** illustrates a comparison of the number of formal errors between the zero-shot and few-shot settings. It was observed that in the few-shot setting, the overall number of errors significantly decreased compared to the zero-shot setting. Notably, there were no occurrences of **No Result Generated** errors, indicating a stronger tendency for the system to consistently generate answers in the few-shot setting.
