@@ -13,9 +13,9 @@ To effectively analyze the results, it is crucial to determine whether they logi
 
 **Figure 4** presents a detailed analysis of errors in the zero-shot setting, revealing distinct patterns based on the type of prompt used:
 
-- No Result Generated errors occurred exclusively with Prompt Type A.
-- Non-Korean Response errors were most common with Prompt Types B1 and B3.
-- Refusal to Generate Response errors were predominantly found with Prompt Type B2.
+- **No Result Generated** errors occurred exclusively with Prompt Type A.
+- **Non-Korean Response** errors were most common with Prompt Types B1 and B3.
+- **Refusal to Generate Response** errors were predominantly found with Prompt Type B2.
 
 ![Figure 04](figure04.png)
 
