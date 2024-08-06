@@ -9,6 +9,8 @@ To effectively analyze the results, it is crucial to determine whether they logi
 
 **Figure 3** illustrates a comparison of the number of formal errors between the zero-shot and few-shot settings. It was observed that in the few-shot setting, the overall number of errors significantly decreased compared to the zero-shot setting. Notably, there were no occurrences of **No Result Generated** errors, indicating a stronger tendency for the system to consistently generate answers in the few-shot setting.
 
+![Figure 03](figure03.png)
+
 **Figure 4** presents a detailed analysis of errors in the zero-shot setting, revealing distinct patterns based on the type of prompt used:
 
 - No Result Generated errors occurred most frequently with Prompt Type A.
