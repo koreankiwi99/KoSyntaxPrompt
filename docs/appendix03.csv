@@ -1,0 +1,20 @@
+Error Type,Prompt Type,Relation,Count
+Refusal to Generate Response,A,xReact,4
+Refusal to Generate Response,A,xEffect,4
+Non-Korean Response,A,HinderedBy,2
+Non-Korean Response,A,isBefore,2
+Non-Korean Response,A,xWant,1
+Non-Korean Response,A,xEffect,1
+Non-Korean Response,A,oEffect,1
+Non-Korean Response,B1,oEffect,1
+Non-Korean Response,B1,xNeed,1
+Non-Korean Response,B1,isBefore,1
+Non-Korean Response,B1,xIntent,2
+Non-Korean Response,B1,xAttr,1
+Non-Korean Response,B1,oWant,2
+Non-Korean Response,B2,xNeed,1
+Non-Korean Response,B2,HinderedBy,1
+Non-Korean Response,B2,xReact,1
+Non-Korean Response,B2,oWant,1
+Non-Korean Response,B2,oEffect,2
+Non-Korean Response,B3,xNeed,1
