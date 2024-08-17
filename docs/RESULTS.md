@@ -19,7 +19,7 @@ To effectively analyze the results, it is crucial to determine whether they logi
 
 ![Figure 04](figure04_rev.png)
 
-These findings indicate that the structure of prompts may play a role in influencing the types of errors generated in the zero-shot setting. For detailed data on the number of errors categorized by relation and prompt type, please refer to [Appendix 2](/docs/appendix02.csv) and [Appendix 2](/docs/appendix03.csv).
+These findings indicate that the structure of prompts may play a role in influencing the types of errors generated in the zero-shot setting. For detailed data on the number of errors categorized by relation and prompt type, please refer to [Appendix 2](/docs/appendix02.csv) and [Appendix 3](/docs/appendix03.csv).
 
 ## Content Analysis
 ### 1. Post-processing for Content Analysis
