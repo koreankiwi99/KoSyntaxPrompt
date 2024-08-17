@@ -23,5 +23,5 @@ These findings indicate that the structure of prompts may play a role in influen
 
 ## Content Analysis
 ### 1. Post-processing for Content Analysis
-In this study, to ensure a fair comparison of experimental results, the prompts used were removed. Additionally, verb conjugations were converted to their base forms to make comparison easier. For instance, in the post-processed ICL experiment results shown in Table 5, it was observed that removing the prompts sometimes led to identical results. However, while the ICL approach produced relatively stable and consistent outputs, the zeroshot approach resulted in more variable outputs, making it challenging to convert all verbs to their base forms consistently.
+In this study, to ensure a fair comparison of experimental results, the prompts used were removed. Additionally, verb conjugations were converted to their base forms to make comparison easier. For instance, in the post-processed few-shot experiment results shown in Table 5, it was observed that removing the prompts sometimes led to identical results. However, while the few-shot approach produced relatively stable and consistent outputs, the zero-shot approach resulted in more variable outputs, making it challenging to convert all verbs to their base forms consistently.
 
